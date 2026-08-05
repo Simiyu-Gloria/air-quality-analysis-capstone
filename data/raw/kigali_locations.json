@@ -1,0 +1,310 @@
+{
+  "meta": {
+    "name": "openaq-api",
+    "website": "/",
+    "page": 1,
+    "limit": 100,
+    "found": 4
+  },
+  "results": [
+    {
+      "id": 42400,
+      "name": "KGL",
+      "locality": null,
+      "timezone": "Africa/Kigali",
+      "country": {
+        "id": 126,
+        "code": "RW",
+        "name": "Rwanda"
+      },
+      "owner": {
+        "id": 4,
+        "name": "Unknown Governmental Organization"
+      },
+      "provider": {
+        "id": 218,
+        "name": "Rwanda REMA"
+      },
+      "isMobile": false,
+      "isMonitor": true,
+      "instruments": [
+        {
+          "id": 2,
+          "name": "Government Monitor"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 228495,
+          "name": "co ppm",
+          "parameter": {
+            "id": 8,
+            "name": "co",
+            "units": "ppm",
+            "displayName": "CO"
+          }
+        },
+        {
+          "id": 228497,
+          "name": "no2 ppm",
+          "parameter": {
+            "id": 7,
+            "name": "no2",
+            "units": "ppm",
+            "displayName": "NO\u2082"
+          }
+        },
+        {
+          "id": 228494,
+          "name": "pm10 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 1,
+            "name": "pm10",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM10"
+          }
+        },
+        {
+          "id": 228496,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": -1.955597,
+        "longitude": 30.0577381
+      },
+      "licenses": null,
+      "bounds": [
+        30.0577381,
+        -1.955597,
+        30.0577381,
+        -1.955597
+      ],
+      "distance": 1359.64315915,
+      "datetimeFirst": {
+        "utc": "2020-12-28T23:00:00Z",
+        "local": "2020-12-29T01:00:00+02:00"
+      },
+      "datetimeLast": {
+        "utc": "2023-05-04T10:00:00Z",
+        "local": "2023-05-04T12:00:00+02:00"
+      }
+    },
+    {
+      "id": 313953,
+      "name": "Kigali",
+      "locality": "N/A",
+      "timezone": "Africa/Kigali",
+      "country": {
+        "id": 126,
+        "code": "RW",
+        "name": "Rwanda"
+      },
+      "owner": {
+        "id": 4,
+        "name": "Unknown Governmental Organization"
+      },
+      "provider": {
+        "id": 119,
+        "name": "AirNow"
+      },
+      "isMobile": false,
+      "isMonitor": true,
+      "instruments": [
+        {
+          "id": 2,
+          "name": "Government Monitor"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 1780157,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": -1.936231,
+        "longitude": 30.077952
+      },
+      "licenses": [
+        {
+          "id": 33,
+          "name": "US Public Domain",
+          "attribution": {
+            "name": "Unknown Governmental Organization",
+            "url": null
+          },
+          "dateFrom": "2016-01-30",
+          "dateTo": null
+        }
+      ],
+      "bounds": [
+        30.077952,
+        -1.936231,
+        30.077952,
+        -1.936231
+      ],
+      "distance": 1991.78976219,
+      "datetimeFirst": {
+        "utc": "2022-04-19T06:00:00Z",
+        "local": "2022-04-19T08:00:00+02:00"
+      },
+      "datetimeLast": {
+        "utc": "2025-12-17T19:00:00Z",
+        "local": "2025-12-17T21:00:00+02:00"
+      }
+    },
+    {
+      "id": 6130294,
+      "name": "Kigali_US_Embassy",
+      "locality": null,
+      "timezone": "Africa/Kigali",
+      "country": {
+        "id": 126,
+        "code": "RW",
+        "name": "Rwanda"
+      },
+      "owner": {
+        "id": 9,
+        "name": "Clarity"
+      },
+      "provider": {
+        "id": 166,
+        "name": "Clarity"
+      },
+      "isMobile": false,
+      "isMonitor": false,
+      "instruments": [
+        {
+          "id": 4,
+          "name": "Clarity Sensor"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 14634241,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": -1.93253,
+        "longitude": 30.08001
+      },
+      "licenses": [
+        {
+          "id": 38,
+          "name": "CC0 1.0",
+          "attribution": {
+            "name": "Clarity",
+            "url": null
+          },
+          "dateFrom": "2021-10-20",
+          "dateTo": null
+        }
+      ],
+      "bounds": [
+        30.08001,
+        -1.93253,
+        30.08001,
+        -1.93253
+      ],
+      "distance": 2390.22319412,
+      "datetimeFirst": {
+        "utc": "2025-11-14T15:12:46Z",
+        "local": "2025-11-14T17:12:46+02:00"
+      },
+      "datetimeLast": {
+        "utc": "2026-08-05T15:56:42Z",
+        "local": "2026-08-05T17:56:42+02:00"
+      }
+    },
+    {
+      "id": 6130295,
+      "name": "Kigali_Rwanda",
+      "locality": null,
+      "timezone": "Africa/Kigali",
+      "country": {
+        "id": 126,
+        "code": "RW",
+        "name": "Rwanda"
+      },
+      "owner": {
+        "id": 9,
+        "name": "Clarity"
+      },
+      "provider": {
+        "id": 166,
+        "name": "Clarity"
+      },
+      "isMobile": false,
+      "isMonitor": false,
+      "instruments": [
+        {
+          "id": 4,
+          "name": "Clarity Sensor"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 14634239,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": -1.96033,
+        "longitude": 30.06078
+      },
+      "licenses": [
+        {
+          "id": 38,
+          "name": "CC0 1.0",
+          "attribution": {
+            "name": "Clarity",
+            "url": null
+          },
+          "dateFrom": "2021-10-20",
+          "dateTo": null
+        }
+      ],
+      "bounds": [
+        30.06078,
+        -1.96033,
+        30.06078,
+        -1.96033
+      ],
+      "distance": 1809.26132967,
+      "datetimeFirst": {
+        "utc": "2025-11-14T15:08:58Z",
+        "local": "2025-11-14T17:08:58+02:00"
+      },
+      "datetimeLast": {
+        "utc": "2026-08-05T15:47:58Z",
+        "local": "2026-08-05T17:47:58+02:00"
+      }
+    }
+  ]
+}

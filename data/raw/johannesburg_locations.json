@@ -1,0 +1,1130 @@
+{
+  "meta": {
+    "name": "openaq-api",
+    "website": "/",
+    "page": 1,
+    "limit": 100,
+    "found": 12
+  },
+  "results": [
+    {
+      "id": 225401,
+      "name": "Bedfordview-NAQI",
+      "locality": "City  of  Ekurhuleni",
+      "timezone": "Africa/Johannesburg",
+      "country": {
+        "id": 37,
+        "code": "ZA",
+        "name": "South Africa"
+      },
+      "owner": {
+        "id": 4,
+        "name": "Unknown Governmental Organization"
+      },
+      "provider": {
+        "id": 225,
+        "name": "South Africa"
+      },
+      "isMobile": false,
+      "isMonitor": true,
+      "instruments": [
+        {
+          "id": 2,
+          "name": "Government Monitor"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 1303471,
+          "name": "co ppm",
+          "parameter": {
+            "id": 8,
+            "name": "co",
+            "units": "ppm",
+            "displayName": "CO"
+          }
+        },
+        {
+          "id": 1303566,
+          "name": "pm10 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 1,
+            "name": "pm10",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM10"
+          }
+        },
+        {
+          "id": 1303579,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        },
+        {
+          "id": 1303518,
+          "name": "so2 ppm",
+          "parameter": {
+            "id": 9,
+            "name": "so2",
+            "units": "ppm",
+            "displayName": "SO\u2082"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": -26.178666,
+        "longitude": 28.13314
+      },
+      "licenses": null,
+      "bounds": [
+        28.13314,
+        -26.178666,
+        28.13314,
+        -26.178666
+      ],
+      "distance": 9031.00032828,
+      "datetimeFirst": {
+        "utc": "2021-04-29T18:00:00Z",
+        "local": "2021-04-29T20:00:00+02:00"
+      },
+      "datetimeLast": {
+        "utc": "2023-03-27T16:00:00Z",
+        "local": "2023-03-27T18:00:00+02:00"
+      }
+    },
+    {
+      "id": 225419,
+      "name": "Buccleugh-NAQI",
+      "locality": "City of Johannesburg",
+      "timezone": "Africa/Johannesburg",
+      "country": {
+        "id": 37,
+        "code": "ZA",
+        "name": "South Africa"
+      },
+      "owner": {
+        "id": 4,
+        "name": "Unknown Governmental Organization"
+      },
+      "provider": {
+        "id": 225,
+        "name": "South Africa"
+      },
+      "isMobile": false,
+      "isMonitor": true,
+      "instruments": [
+        {
+          "id": 2,
+          "name": "Government Monitor"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 1303544,
+          "name": "co ppm",
+          "parameter": {
+            "id": 8,
+            "name": "co",
+            "units": "ppm",
+            "displayName": "CO"
+          }
+        },
+        {
+          "id": 6461332,
+          "name": "no ppm",
+          "parameter": {
+            "id": 35,
+            "name": "no",
+            "units": "ppm",
+            "displayName": "NO"
+          }
+        },
+        {
+          "id": 1316139,
+          "name": "no2 ppm",
+          "parameter": {
+            "id": 7,
+            "name": "no2",
+            "units": "ppm",
+            "displayName": "NO\u2082"
+          }
+        },
+        {
+          "id": 6461331,
+          "name": "nox ppm",
+          "parameter": {
+            "id": 19840,
+            "name": "nox",
+            "units": "ppm",
+            "displayName": "NOx"
+          }
+        },
+        {
+          "id": 1303643,
+          "name": "o3 ppm",
+          "parameter": {
+            "id": 10,
+            "name": "o3",
+            "units": "ppm",
+            "displayName": "O\u2083"
+          }
+        },
+        {
+          "id": 1303444,
+          "name": "pm10 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 1,
+            "name": "pm10",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM10"
+          }
+        },
+        {
+          "id": 1303632,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        },
+        {
+          "id": 1303478,
+          "name": "so2 ppm",
+          "parameter": {
+            "id": 9,
+            "name": "so2",
+            "units": "ppm",
+            "displayName": "SO\u2082"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": -26.045,
+        "longitude": 28.098889
+      },
+      "licenses": null,
+      "bounds": [
+        28.098889,
+        -26.045,
+        28.098889,
+        -26.045
+      ],
+      "distance": 18366.27848457,
+      "datetimeFirst": {
+        "utc": "2021-04-29T16:00:00Z",
+        "local": "2021-04-29T18:00:00+02:00"
+      },
+      "datetimeLast": {
+        "utc": "2024-03-12T11:00:00Z",
+        "local": "2024-03-12T13:00:00+02:00"
+      }
+    },
+    {
+      "id": 225424,
+      "name": "Kliprivier",
+      "locality": "City of Johannesburg",
+      "timezone": "Africa/Johannesburg",
+      "country": {
+        "id": 37,
+        "code": "ZA",
+        "name": "South Africa"
+      },
+      "owner": {
+        "id": 4,
+        "name": "Unknown Governmental Organization"
+      },
+      "provider": {
+        "id": 225,
+        "name": "South Africa"
+      },
+      "isMobile": false,
+      "isMonitor": true,
+      "instruments": [
+        {
+          "id": 2,
+          "name": "Government Monitor"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 1303522,
+          "name": "co ppm",
+          "parameter": {
+            "id": 8,
+            "name": "co",
+            "units": "ppm",
+            "displayName": "CO"
+          }
+        },
+        {
+          "id": 4277256,
+          "name": "no ppm",
+          "parameter": {
+            "id": 35,
+            "name": "no",
+            "units": "ppm",
+            "displayName": "NO"
+          }
+        },
+        {
+          "id": 1303535,
+          "name": "no2 ppm",
+          "parameter": {
+            "id": 7,
+            "name": "no2",
+            "units": "ppm",
+            "displayName": "NO\u2082"
+          }
+        },
+        {
+          "id": 4277298,
+          "name": "nox ppm",
+          "parameter": {
+            "id": 19840,
+            "name": "nox",
+            "units": "ppm",
+            "displayName": "NOx"
+          }
+        },
+        {
+          "id": 1303605,
+          "name": "o3 ppm",
+          "parameter": {
+            "id": 10,
+            "name": "o3",
+            "units": "ppm",
+            "displayName": "O\u2083"
+          }
+        },
+        {
+          "id": 1303514,
+          "name": "pm10 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 1,
+            "name": "pm10",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM10"
+          }
+        },
+        {
+          "id": 1303586,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        },
+        {
+          "id": 1303610,
+          "name": "so2 ppm",
+          "parameter": {
+            "id": 9,
+            "name": "so2",
+            "units": "ppm",
+            "displayName": "SO\u2082"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": -26.420222000000003,
+        "longitude": 28.084139
+      },
+      "licenses": null,
+      "bounds": [
+        28.084139,
+        -26.420222000000003,
+        28.084139,
+        -26.420222000000003
+      ],
+      "distance": 24225.65613491,
+      "datetimeFirst": {
+        "utc": "2021-04-29T18:00:00Z",
+        "local": "2021-04-29T20:00:00+02:00"
+      },
+      "datetimeLast": {
+        "utc": "2024-03-12T11:00:00Z",
+        "local": "2024-03-12T13:00:00+02:00"
+      }
+    },
+    {
+      "id": 225445,
+      "name": "Diepkloof-NAQI",
+      "locality": "City of Johannesburg",
+      "timezone": "Africa/Johannesburg",
+      "country": {
+        "id": 37,
+        "code": "ZA",
+        "name": "South Africa"
+      },
+      "owner": {
+        "id": 4,
+        "name": "Unknown Governmental Organization"
+      },
+      "provider": {
+        "id": 225,
+        "name": "South Africa"
+      },
+      "isMobile": false,
+      "isMonitor": true,
+      "instruments": [
+        {
+          "id": 2,
+          "name": "Government Monitor"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 1303443,
+          "name": "co ppm",
+          "parameter": {
+            "id": 8,
+            "name": "co",
+            "units": "ppm",
+            "displayName": "CO"
+          }
+        },
+        {
+          "id": 4613421,
+          "name": "no ppm",
+          "parameter": {
+            "id": 35,
+            "name": "no",
+            "units": "ppm",
+            "displayName": "NO"
+          }
+        },
+        {
+          "id": 1303494,
+          "name": "no2 ppm",
+          "parameter": {
+            "id": 7,
+            "name": "no2",
+            "units": "ppm",
+            "displayName": "NO\u2082"
+          }
+        },
+        {
+          "id": 4613422,
+          "name": "nox ppm",
+          "parameter": {
+            "id": 19840,
+            "name": "nox",
+            "units": "ppm",
+            "displayName": "NOx"
+          }
+        },
+        {
+          "id": 1303599,
+          "name": "o3 ppm",
+          "parameter": {
+            "id": 10,
+            "name": "o3",
+            "units": "ppm",
+            "displayName": "O\u2083"
+          }
+        },
+        {
+          "id": 1303528,
+          "name": "pm10 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 1,
+            "name": "pm10",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM10"
+          }
+        },
+        {
+          "id": 1303474,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        },
+        {
+          "id": 1303383,
+          "name": "so2 ppm",
+          "parameter": {
+            "id": 9,
+            "name": "so2",
+            "units": "ppm",
+            "displayName": "SO\u2082"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": -26.250733,
+        "longitude": 27.956416700000002
+      },
+      "licenses": null,
+      "bounds": [
+        27.956416700000002,
+        -26.250733,
+        27.956416700000002,
+        -26.250733
+      ],
+      "distance": 10448.2354634,
+      "datetimeFirst": {
+        "utc": "2021-04-29T18:00:00Z",
+        "local": "2021-04-29T20:00:00+02:00"
+      },
+      "datetimeLast": {
+        "utc": "2024-03-12T11:00:00Z",
+        "local": "2024-03-12T13:00:00+02:00"
+      }
+    },
+    {
+      "id": 225446,
+      "name": "Thokoza-NAQI",
+      "locality": "City  of  Ekurhuleni",
+      "timezone": "Africa/Johannesburg",
+      "country": {
+        "id": 37,
+        "code": "ZA",
+        "name": "South Africa"
+      },
+      "owner": {
+        "id": 4,
+        "name": "Unknown Governmental Organization"
+      },
+      "provider": {
+        "id": 225,
+        "name": "South Africa"
+      },
+      "isMobile": false,
+      "isMonitor": true,
+      "instruments": [
+        {
+          "id": 2,
+          "name": "Government Monitor"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 1562097,
+          "name": "pm10 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 1,
+            "name": "pm10",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM10"
+          }
+        },
+        {
+          "id": 1303660,
+          "name": "so2 ppm",
+          "parameter": {
+            "id": 9,
+            "name": "so2",
+            "units": "ppm",
+            "displayName": "SO\u2082"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": -26.329515,
+        "longitude": 28.14299
+      },
+      "licenses": null,
+      "bounds": [
+        28.14299,
+        -26.329515,
+        28.14299,
+        -26.329515
+      ],
+      "distance": 16865.23029294,
+      "datetimeFirst": {
+        "utc": "2021-04-29T18:00:00Z",
+        "local": "2021-04-29T20:00:00+02:00"
+      },
+      "datetimeLast": {
+        "utc": "2024-03-12T11:00:00Z",
+        "local": "2024-03-12T13:00:00+02:00"
+      }
+    },
+    {
+      "id": 225448,
+      "name": "Jabavu-NAQI",
+      "locality": "City of Johannesburg",
+      "timezone": "Africa/Johannesburg",
+      "country": {
+        "id": 37,
+        "code": "ZA",
+        "name": "South Africa"
+      },
+      "owner": {
+        "id": 4,
+        "name": "Unknown Governmental Organization"
+      },
+      "provider": {
+        "id": 225,
+        "name": "South Africa"
+      },
+      "isMobile": false,
+      "isMonitor": true,
+      "instruments": [
+        {
+          "id": 2,
+          "name": "Government Monitor"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 1303538,
+          "name": "o3 ppm",
+          "parameter": {
+            "id": 10,
+            "name": "o3",
+            "units": "ppm",
+            "displayName": "O\u2083"
+          }
+        },
+        {
+          "id": 1303596,
+          "name": "pm10 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 1,
+            "name": "pm10",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM10"
+          }
+        },
+        {
+          "id": 1303486,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        },
+        {
+          "id": 1303373,
+          "name": "so2 ppm",
+          "parameter": {
+            "id": 9,
+            "name": "so2",
+            "units": "ppm",
+            "displayName": "SO\u2082"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": -26.252611,
+        "longitude": 27.872139
+      },
+      "licenses": null,
+      "bounds": [
+        27.872139,
+        -26.252611,
+        27.872139,
+        -26.252611
+      ],
+      "distance": 18309.28614073,
+      "datetimeFirst": {
+        "utc": "2021-04-28T00:00:00Z",
+        "local": "2021-04-28T02:00:00+02:00"
+      },
+      "datetimeLast": {
+        "utc": "2024-03-12T10:00:00Z",
+        "local": "2024-03-12T12:00:00+02:00"
+      }
+    },
+    {
+      "id": 225456,
+      "name": "Alexandra-NAQI",
+      "locality": "City of Johannesburg",
+      "timezone": "Africa/Johannesburg",
+      "country": {
+        "id": 37,
+        "code": "ZA",
+        "name": "South Africa"
+      },
+      "owner": {
+        "id": 4,
+        "name": "Unknown Governmental Organization"
+      },
+      "provider": {
+        "id": 225,
+        "name": "South Africa"
+      },
+      "isMobile": false,
+      "isMonitor": true,
+      "instruments": [
+        {
+          "id": 2,
+          "name": "Government Monitor"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 1303551,
+          "name": "pm10 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 1,
+            "name": "pm10",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM10"
+          }
+        },
+        {
+          "id": 1303621,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        },
+        {
+          "id": 1303624,
+          "name": "so2 ppm",
+          "parameter": {
+            "id": 9,
+            "name": "so2",
+            "units": "ppm",
+            "displayName": "SO\u2082"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": -26.107035,
+        "longitude": 28.110264
+      },
+      "licenses": null,
+      "bounds": [
+        28.110264,
+        -26.107035,
+        28.110264,
+        -26.107035
+      ],
+      "distance": 12461.0918065,
+      "datetimeFirst": {
+        "utc": "2021-04-29T18:00:00Z",
+        "local": "2021-04-29T20:00:00+02:00"
+      },
+      "datetimeLast": {
+        "utc": "2024-03-12T11:00:00Z",
+        "local": "2024-03-12T13:00:00+02:00"
+      }
+    },
+    {
+      "id": 230815,
+      "name": "Mogale City",
+      "locality": "West Rand",
+      "timezone": "Africa/Johannesburg",
+      "country": {
+        "id": 37,
+        "code": "ZA",
+        "name": "South Africa"
+      },
+      "owner": {
+        "id": 4,
+        "name": "Unknown Governmental Organization"
+      },
+      "provider": {
+        "id": 225,
+        "name": "South Africa"
+      },
+      "isMobile": false,
+      "isMonitor": true,
+      "instruments": [
+        {
+          "id": 2,
+          "name": "Government Monitor"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 1328973,
+          "name": "co ppm",
+          "parameter": {
+            "id": 8,
+            "name": "co",
+            "units": "ppm",
+            "displayName": "CO"
+          }
+        },
+        {
+          "id": 5977924,
+          "name": "no ppm",
+          "parameter": {
+            "id": 35,
+            "name": "no",
+            "units": "ppm",
+            "displayName": "NO"
+          }
+        },
+        {
+          "id": 1328932,
+          "name": "no2 ppm",
+          "parameter": {
+            "id": 7,
+            "name": "no2",
+            "units": "ppm",
+            "displayName": "NO\u2082"
+          }
+        },
+        {
+          "id": 5977914,
+          "name": "nox ppm",
+          "parameter": {
+            "id": 19840,
+            "name": "nox",
+            "units": "ppm",
+            "displayName": "NOx"
+          }
+        },
+        {
+          "id": 1328980,
+          "name": "o3 ppm",
+          "parameter": {
+            "id": 10,
+            "name": "o3",
+            "units": "ppm",
+            "displayName": "O\u2083"
+          }
+        },
+        {
+          "id": 1328924,
+          "name": "pm10 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 1,
+            "name": "pm10",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM10"
+          }
+        },
+        {
+          "id": 1328966,
+          "name": "so2 ppm",
+          "parameter": {
+            "id": 9,
+            "name": "so2",
+            "units": "ppm",
+            "displayName": "SO\u2082"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": -26.170333,
+        "longitude": 27.806556
+      },
+      "licenses": null,
+      "bounds": [
+        27.806556,
+        -26.170333,
+        27.806556,
+        -26.170333
+      ],
+      "distance": 24353.46192029,
+      "datetimeFirst": {
+        "utc": "2021-08-03T19:00:00Z",
+        "local": "2021-08-03T21:00:00+02:00"
+      },
+      "datetimeLast": {
+        "utc": "2023-12-11T16:00:00Z",
+        "local": "2023-12-11T18:00:00+02:00"
+      }
+    },
+    {
+      "id": 364067,
+      "name": "Germiston - Delville",
+      "locality": "City  of  Ekurhuleni",
+      "timezone": "Africa/Johannesburg",
+      "country": {
+        "id": 37,
+        "code": "ZA",
+        "name": "South Africa"
+      },
+      "owner": {
+        "id": 4,
+        "name": "Unknown Governmental Organization"
+      },
+      "provider": {
+        "id": 225,
+        "name": "South Africa"
+      },
+      "isMobile": false,
+      "isMonitor": true,
+      "instruments": [
+        {
+          "id": 2,
+          "name": "Government Monitor"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 2055488,
+          "name": "so2 ppm",
+          "parameter": {
+            "id": 9,
+            "name": "so2",
+            "units": "ppm",
+            "displayName": "SO\u2082"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": -26.227361,
+        "longitude": 28.177333
+      },
+      "licenses": null,
+      "bounds": [
+        28.177333,
+        -26.227361,
+        28.177333,
+        -26.227361
+      ],
+      "distance": 13247.81836726,
+      "datetimeFirst": {
+        "utc": "2021-05-28T17:00:00Z",
+        "local": "2021-05-28T19:00:00+02:00"
+      },
+      "datetimeLast": {
+        "utc": "2021-05-28T17:00:00Z",
+        "local": "2021-05-28T19:00:00+02:00"
+      }
+    },
+    {
+      "id": 409081,
+      "name": "Davidsonville",
+      "locality": "City of Johannesburg",
+      "timezone": "Africa/Johannesburg",
+      "country": {
+        "id": 37,
+        "code": "ZA",
+        "name": "South Africa"
+      },
+      "owner": {
+        "id": 4,
+        "name": "Unknown Governmental Organization"
+      },
+      "provider": {
+        "id": 225,
+        "name": "South Africa"
+      },
+      "isMobile": false,
+      "isMonitor": true,
+      "instruments": [
+        {
+          "id": 2,
+          "name": "Government Monitor"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 2277428,
+          "name": "pm10 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 1,
+            "name": "pm10",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM10"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": -26.154186,
+        "longitude": 27.84957
+      },
+      "licenses": null,
+      "bounds": [
+        27.84957,
+        -26.154186,
+        27.84957,
+        -26.154186
+      ],
+      "distance": 20525.14872466,
+      "datetimeFirst": {
+        "utc": "2022-12-13T13:00:00Z",
+        "local": "2022-12-13T15:00:00+02:00"
+      },
+      "datetimeLast": {
+        "utc": "2024-03-12T07:00:00Z",
+        "local": "2024-03-12T09:00:00+02:00"
+      }
+    },
+    {
+      "id": 1321146,
+      "name": "Glen Austin",
+      "locality": "City of Tshwane",
+      "timezone": "Africa/Johannesburg",
+      "country": {
+        "id": 37,
+        "code": "ZA",
+        "name": "South Africa"
+      },
+      "owner": {
+        "id": 4,
+        "name": "Unknown Governmental Organization"
+      },
+      "provider": {
+        "id": 225,
+        "name": "South Africa"
+      },
+      "isMobile": false,
+      "isMonitor": true,
+      "instruments": [
+        {
+          "id": 2,
+          "name": "Government Monitor"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 6617102,
+          "name": "so2 ppm",
+          "parameter": {
+            "id": 9,
+            "name": "so2",
+            "units": "ppm",
+            "displayName": "SO\u2082"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": -26.189028,
+        "longitude": 27.928639
+      },
+      "licenses": null,
+      "bounds": [
+        27.928639,
+        -26.189028,
+        27.928639,
+        -26.189028
+      ],
+      "distance": 11977.20167881,
+      "datetimeFirst": {
+        "utc": "2023-07-26T05:00:00Z",
+        "local": "2023-07-26T07:00:00+02:00"
+      },
+      "datetimeLast": {
+        "utc": "2023-07-26T23:00:00Z",
+        "local": "2023-07-27T01:00:00+02:00"
+      }
+    },
+    {
+      "id": 6475117,
+      "name": "Little John Park ",
+      "locality": null,
+      "timezone": "Africa/Johannesburg",
+      "country": {
+        "id": 37,
+        "code": "ZA",
+        "name": "South Africa"
+      },
+      "owner": {
+        "id": 12,
+        "name": "AirGradient"
+      },
+      "provider": {
+        "id": 66,
+        "name": "AirGradient"
+      },
+      "isMobile": false,
+      "isMonitor": false,
+      "instruments": [
+        {
+          "id": 7,
+          "name": "Unknown AirGradient Sensor"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 17146335,
+          "name": "pm1 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 19,
+            "name": "pm1",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM1"
+          }
+        },
+        {
+          "id": 17146336,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        },
+        {
+          "id": 17146337,
+          "name": "relativehumidity %",
+          "parameter": {
+            "id": 98,
+            "name": "relativehumidity",
+            "units": "%",
+            "displayName": "RH"
+          }
+        },
+        {
+          "id": 17146338,
+          "name": "temperature c",
+          "parameter": {
+            "id": 100,
+            "name": "temperature",
+            "units": "c",
+            "displayName": "Temperature (C)"
+          }
+        },
+        {
+          "id": 17146339,
+          "name": "um003 particles/cm\u00b3",
+          "parameter": {
+            "id": 125,
+            "name": "um003",
+            "units": "particles/cm\u00b3",
+            "displayName": "PM0.3 count"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": -26.1171513,
+        "longitude": 27.9953635
+      },
+      "licenses": [
+        {
+          "id": 41,
+          "name": "CC BY 4.0",
+          "attribution": {
+            "name": "AirGradient",
+            "url": null
+          },
+          "dateFrom": "2023-07-15",
+          "dateTo": null
+        }
+      ],
+      "bounds": [
+        27.9953635,
+        -26.1171513,
+        27.9953635,
+        -26.1171513
+      ],
+      "distance": 10943.49972561,
+      "datetimeFirst": {
+        "utc": "2026-08-05T08:00:00Z",
+        "local": "2026-08-05T10:00:00+02:00"
+      },
+      "datetimeLast": {
+        "utc": "2026-08-05T16:00:00Z",
+        "local": "2026-08-05T18:00:00+02:00"
+      }
+    }
+  ]
+}

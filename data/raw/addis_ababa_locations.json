@@ -1,0 +1,575 @@
+{
+  "meta": {
+    "name": "openaq-api",
+    "website": "/",
+    "page": 1,
+    "limit": 100,
+    "found": 9
+  },
+  "results": [
+    {
+      "id": 9714,
+      "name": "Addis Ababa Central",
+      "locality": "N/A",
+      "timezone": "Africa/Addis_Ababa",
+      "country": {
+        "id": 14,
+        "code": "ET",
+        "name": "Ethiopia"
+      },
+      "owner": {
+        "id": 4,
+        "name": "Unknown Governmental Organization"
+      },
+      "provider": {
+        "id": 119,
+        "name": "AirNow"
+      },
+      "isMobile": false,
+      "isMonitor": true,
+      "instruments": [
+        {
+          "id": 2,
+          "name": "Government Monitor"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 30190,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": 9.058498,
+        "longitude": 38.761641
+      },
+      "licenses": [
+        {
+          "id": 33,
+          "name": "US Public Domain",
+          "attribution": {
+            "name": "Unknown Governmental Organization",
+            "url": null
+          },
+          "dateFrom": "2016-01-30",
+          "dateTo": null
+        }
+      ],
+      "bounds": [
+        38.761641,
+        9.058498,
+        38.761641,
+        9.058498
+      ],
+      "distance": 4093.25891732,
+      "datetimeFirst": {
+        "utc": "2016-08-18T23:00:00Z",
+        "local": "2016-08-19T02:00:00+03:00"
+      },
+      "datetimeLast": {
+        "utc": "2026-05-21T18:00:00Z",
+        "local": "2026-05-21T21:00:00+03:00"
+      }
+    },
+    {
+      "id": 9765,
+      "name": "US Diplomatic Post: Addis Ababa School",
+      "locality": "Addis Ababa",
+      "timezone": "Africa/Addis_Ababa",
+      "country": {
+        "id": 14,
+        "code": "ET",
+        "name": "Ethiopia"
+      },
+      "owner": {
+        "id": 4,
+        "name": "Unknown Governmental Organization"
+      },
+      "provider": {
+        "id": 236,
+        "name": "StateAir Addis Ababa School"
+      },
+      "isMobile": false,
+      "isMonitor": true,
+      "instruments": [
+        {
+          "id": 2,
+          "name": "Government Monitor"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 30470,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": 8.996519,
+        "longitude": 38.725433
+      },
+      "licenses": null,
+      "bounds": [
+        38.725433,
+        8.996519,
+        38.725433,
+        8.996519
+      ],
+      "distance": 3887.69266927,
+      "datetimeFirst": {
+        "utc": "2016-11-08T18:00:00Z",
+        "local": "2016-11-08T21:00:00+03:00"
+      },
+      "datetimeLast": {
+        "utc": "2021-09-08T18:00:00Z",
+        "local": "2021-09-08T21:00:00+03:00"
+      }
+    },
+    {
+      "id": 235169,
+      "name": "Addis Ababa Jacros",
+      "locality": "N/A",
+      "timezone": "Africa/Addis_Ababa",
+      "country": {
+        "id": 14,
+        "code": "ET",
+        "name": "Ethiopia"
+      },
+      "owner": {
+        "id": 4,
+        "name": "Unknown Governmental Organization"
+      },
+      "provider": {
+        "id": 119,
+        "name": "AirNow"
+      },
+      "isMobile": false,
+      "isMonitor": true,
+      "instruments": [
+        {
+          "id": 2,
+          "name": "Government Monitor"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 1352354,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": 9.011444,
+        "longitude": 38.820909
+      },
+      "licenses": [
+        {
+          "id": 33,
+          "name": "US Public Domain",
+          "attribution": {
+            "name": "Unknown Governmental Organization",
+            "url": null
+          },
+          "dateFrom": "2016-01-30",
+          "dateTo": null
+        }
+      ],
+      "bounds": [
+        38.820909,
+        9.011444,
+        38.820909,
+        9.011444
+      ],
+      "distance": 8288.19268751,
+      "datetimeFirst": {
+        "utc": "2021-09-08T14:00:00Z",
+        "local": "2021-09-08T17:00:00+03:00"
+      },
+      "datetimeLast": {
+        "utc": "2025-03-24T14:00:00Z",
+        "local": "2025-03-24T17:00:00+03:00"
+      }
+    },
+    {
+      "id": 6136582,
+      "name": "Addis Ababa, Tikur Anbessa Specialized Hospital (TASH), GEOHealth",
+      "locality": null,
+      "timezone": "Africa/Addis_Ababa",
+      "country": {
+        "id": 14,
+        "code": "ET",
+        "name": "Ethiopia"
+      },
+      "owner": {
+        "id": 23894,
+        "name": "GEOHealth Hub for Eastern Africa"
+      },
+      "provider": {
+        "id": 441,
+        "name": "GeoHealth"
+      },
+      "isMobile": false,
+      "isMonitor": true,
+      "instruments": [
+        {
+          "id": 18,
+          "name": "BAM 1022"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 14679597,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": 9.01523,
+        "longitude": 38.74291
+      },
+      "licenses": [
+        {
+          "id": 41,
+          "name": "CC BY 4.0",
+          "attribution": {
+            "name": "GEOHealth Hub for Eastern Africa",
+            "url": null
+          },
+          "dateFrom": "2017-04-16",
+          "dateTo": null
+        }
+      ],
+      "bounds": [
+        38.74291,
+        9.01523,
+        38.74291,
+        9.01523
+      ],
+      "distance": 1116.9814822,
+      "datetimeFirst": {
+        "utc": "2017-03-31T21:00:00Z",
+        "local": "2017-04-01T00:00:00+03:00"
+      },
+      "datetimeLast": {
+        "utc": "2023-08-15T20:00:00Z",
+        "local": "2023-08-15T23:00:00+03:00"
+      }
+    },
+    {
+      "id": 6467397,
+      "name": "koshe test",
+      "locality": null,
+      "timezone": "Africa/Addis_Ababa",
+      "country": {
+        "id": 14,
+        "code": "ET",
+        "name": "Ethiopia"
+      },
+      "owner": {
+        "id": 11,
+        "name": "HabitatMap"
+      },
+      "provider": {
+        "id": 200,
+        "name": "HabitatMap"
+      },
+      "isMobile": false,
+      "isMonitor": false,
+      "instruments": [
+        {
+          "id": 5,
+          "name": "HabitatMap Sensor"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 17090003,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": 8.97252255,
+        "longitude": 38.718903176
+      },
+      "licenses": null,
+      "bounds": [
+        38.718903176,
+        8.97252255,
+        38.718903176,
+        8.97252255
+      ],
+      "distance": 6520.57729372,
+      "datetimeFirst": {
+        "utc": "2026-07-30T19:17:37Z",
+        "local": "2026-07-30T22:17:37+03:00"
+      },
+      "datetimeLast": {
+        "utc": "2026-07-30T19:31:59Z",
+        "local": "2026-07-30T22:31:59+03:00"
+      }
+    },
+    {
+      "id": 6468178,
+      "name": "office test",
+      "locality": null,
+      "timezone": "Africa/Addis_Ababa",
+      "country": {
+        "id": 14,
+        "code": "ET",
+        "name": "Ethiopia"
+      },
+      "owner": {
+        "id": 11,
+        "name": "HabitatMap"
+      },
+      "provider": {
+        "id": 200,
+        "name": "HabitatMap"
+      },
+      "isMobile": false,
+      "isMonitor": false,
+      "instruments": [
+        {
+          "id": 5,
+          "name": "HabitatMap Sensor"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 17095638,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": 9.012286681,
+        "longitude": 38.762280531
+      },
+      "licenses": null,
+      "bounds": [
+        38.762280531,
+        9.012286681,
+        38.762280531,
+        9.012286681
+      ],
+      "distance": 2188.48465638,
+      "datetimeFirst": {
+        "utc": "2026-07-31T09:09:57Z",
+        "local": "2026-07-31T12:09:57+03:00"
+      },
+      "datetimeLast": {
+        "utc": "2026-07-31T09:20:13Z",
+        "local": "2026-07-31T12:20:13+03:00"
+      }
+    },
+    {
+      "id": 6468181,
+      "name": "The Urban Center Office",
+      "locality": null,
+      "timezone": "Africa/Addis_Ababa",
+      "country": {
+        "id": 14,
+        "code": "ET",
+        "name": "Ethiopia"
+      },
+      "owner": {
+        "id": 11,
+        "name": "HabitatMap"
+      },
+      "provider": {
+        "id": 200,
+        "name": "HabitatMap"
+      },
+      "isMobile": false,
+      "isMonitor": false,
+      "instruments": [
+        {
+          "id": 5,
+          "name": "HabitatMap Sensor"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 17095947,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": 9.012127073,
+        "longitude": 38.762360327
+      },
+      "licenses": null,
+      "bounds": [
+        38.762360327,
+        9.012127073,
+        38.762360327,
+        9.012127073
+      ],
+      "distance": 2206.353986,
+      "datetimeFirst": {
+        "utc": "2026-07-31T09:30:57Z",
+        "local": "2026-07-31T12:30:57+03:00"
+      },
+      "datetimeLast": {
+        "utc": "2026-07-31T10:36:29Z",
+        "local": "2026-07-31T13:36:29+03:00"
+      }
+    },
+    {
+      "id": 6469484,
+      "name": "koshe outdoor 1",
+      "locality": null,
+      "timezone": "Africa/Addis_Ababa",
+      "country": {
+        "id": 14,
+        "code": "ET",
+        "name": "Ethiopia"
+      },
+      "owner": {
+        "id": 11,
+        "name": "HabitatMap"
+      },
+      "provider": {
+        "id": 200,
+        "name": "HabitatMap"
+      },
+      "isMobile": false,
+      "isMonitor": false,
+      "instruments": [
+        {
+          "id": 5,
+          "name": "HabitatMap Sensor"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 17105225,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": 8.972458302,
+        "longitude": 38.718923628
+      },
+      "licenses": null,
+      "bounds": [
+        38.718923628,
+        8.972458302,
+        38.718923628,
+        8.972458302
+      ],
+      "distance": 6525.80232399,
+      "datetimeFirst": {
+        "utc": "2026-08-01T07:52:08Z",
+        "local": "2026-08-01T10:52:08+03:00"
+      },
+      "datetimeLast": {
+        "utc": "2026-08-01T11:53:15Z",
+        "local": "2026-08-01T14:53:15+03:00"
+      }
+    },
+    {
+      "id": 6469971,
+      "name": "koshe out 2",
+      "locality": null,
+      "timezone": "Africa/Addis_Ababa",
+      "country": {
+        "id": 14,
+        "code": "ET",
+        "name": "Ethiopia"
+      },
+      "owner": {
+        "id": 11,
+        "name": "HabitatMap"
+      },
+      "provider": {
+        "id": 200,
+        "name": "HabitatMap"
+      },
+      "isMobile": false,
+      "isMonitor": false,
+      "instruments": [
+        {
+          "id": 5,
+          "name": "HabitatMap Sensor"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 17108771,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": 8.972464264,
+        "longitude": 38.718898483
+      },
+      "licenses": null,
+      "bounds": [
+        38.718898483,
+        8.972464264,
+        38.718898483,
+        8.972464264
+      ],
+      "distance": 6526.51421404,
+      "datetimeFirst": {
+        "utc": "2026-08-01T15:50:03Z",
+        "local": "2026-08-01T18:50:03+03:00"
+      },
+      "datetimeLast": {
+        "utc": "2026-08-01T21:45:12Z",
+        "local": "2026-08-02T00:45:12+03:00"
+      }
+    }
+  ]
+}

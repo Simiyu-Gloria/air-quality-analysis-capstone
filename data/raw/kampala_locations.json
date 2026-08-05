@@ -1,0 +1,3151 @@
+{
+  "meta": {
+    "name": "openaq-api",
+    "website": "/",
+    "page": 1,
+    "limit": 100,
+    "found": 36
+  },
+  "results": [
+    {
+      "id": 8645,
+      "name": "Kampala",
+      "locality": "N/A",
+      "timezone": "Africa/Kampala",
+      "country": {
+        "id": 133,
+        "code": "UG",
+        "name": "Uganda"
+      },
+      "owner": {
+        "id": 4,
+        "name": "Unknown Governmental Organization"
+      },
+      "provider": {
+        "id": 119,
+        "name": "AirNow"
+      },
+      "isMobile": false,
+      "isMonitor": true,
+      "instruments": [
+        {
+          "id": 2,
+          "name": "Government Monitor"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 25086,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": 0.300225,
+        "longitude": 32.591554
+      },
+      "licenses": [
+        {
+          "id": 33,
+          "name": "US Public Domain",
+          "attribution": {
+            "name": "Unknown Governmental Organization",
+            "url": null
+          },
+          "dateFrom": "2016-01-30",
+          "dateTo": null
+        }
+      ],
+      "bounds": [
+        32.591554,
+        0.300225,
+        32.591554,
+        0.300225
+      ],
+      "distance": 5323.6754181,
+      "datetimeFirst": {
+        "utc": "2017-02-18T02:00:00Z",
+        "local": "2017-02-18T05:00:00+03:00"
+      },
+      "datetimeLast": {
+        "utc": "2025-03-24T13:00:00Z",
+        "local": "2025-03-24T16:00:00+03:00"
+      }
+    },
+    {
+      "id": 5714432,
+      "name": "Makerere University Weather Station",
+      "locality": null,
+      "timezone": "Africa/Kampala",
+      "country": {
+        "id": 133,
+        "code": "UG",
+        "name": "Uganda"
+      },
+      "owner": {
+        "id": 22712,
+        "name": "AirQo"
+      },
+      "provider": {
+        "id": 66,
+        "name": "AirGradient"
+      },
+      "isMobile": false,
+      "isMonitor": false,
+      "instruments": [
+        {
+          "id": 26,
+          "name": "AirGradient Open Air Max Generation 1 (O-M-1PPST-CE)"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 14069447,
+          "name": "pm1 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 19,
+            "name": "pm1",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM1"
+          }
+        },
+        {
+          "id": 14069448,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        },
+        {
+          "id": 14069449,
+          "name": "relativehumidity %",
+          "parameter": {
+            "id": 98,
+            "name": "relativehumidity",
+            "units": "%",
+            "displayName": "RH"
+          }
+        },
+        {
+          "id": 14069450,
+          "name": "temperature c",
+          "parameter": {
+            "id": 100,
+            "name": "temperature",
+            "units": "c",
+            "displayName": "Temperature (C)"
+          }
+        },
+        {
+          "id": 14069451,
+          "name": "um003 particles/cm\u00b3",
+          "parameter": {
+            "id": 125,
+            "name": "um003",
+            "units": "particles/cm\u00b3",
+            "displayName": "PM0.3 count"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": 0.33354,
+        "longitude": 32.56861
+      },
+      "licenses": [
+        {
+          "id": 41,
+          "name": "CC BY 4.0",
+          "attribution": {
+            "name": "AirQo",
+            "url": null
+          },
+          "dateFrom": "2023-07-15",
+          "dateTo": null
+        }
+      ],
+      "bounds": [
+        32.56861,
+        0.33354,
+        32.56861,
+        0.33354
+      ],
+      "distance": 2184.83204987,
+      "datetimeFirst": {
+        "utc": "2025-09-08T16:00:00Z",
+        "local": "2025-09-08T19:00:00+03:00"
+      },
+      "datetimeLast": {
+        "utc": "2026-08-05T16:00:00Z",
+        "local": "2026-08-05T19:00:00+03:00"
+      }
+    },
+    {
+      "id": 5976204,
+      "name": "Kyebando ",
+      "locality": null,
+      "timezone": "Africa/Kampala",
+      "country": {
+        "id": 133,
+        "code": "UG",
+        "name": "Uganda"
+      },
+      "owner": {
+        "id": 22712,
+        "name": "AirQo"
+      },
+      "provider": {
+        "id": 66,
+        "name": "AirGradient"
+      },
+      "isMobile": false,
+      "isMonitor": false,
+      "instruments": [
+        {
+          "id": 27,
+          "name": "AirGradient Open Air Max Generation 1 (O-M-1PPSTON-CE)"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 14259287,
+          "name": "pm1 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 19,
+            "name": "pm1",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM1"
+          }
+        },
+        {
+          "id": 14259288,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        },
+        {
+          "id": 14259289,
+          "name": "relativehumidity %",
+          "parameter": {
+            "id": 98,
+            "name": "relativehumidity",
+            "units": "%",
+            "displayName": "RH"
+          }
+        },
+        {
+          "id": 14259290,
+          "name": "temperature c",
+          "parameter": {
+            "id": 100,
+            "name": "temperature",
+            "units": "c",
+            "displayName": "Temperature (C)"
+          }
+        },
+        {
+          "id": 14259291,
+          "name": "um003 particles/cm\u00b3",
+          "parameter": {
+            "id": 125,
+            "name": "um003",
+            "units": "particles/cm\u00b3",
+            "displayName": "PM0.3 count"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": 0.358762,
+        "longitude": 32.584203
+      },
+      "licenses": [
+        {
+          "id": 41,
+          "name": "CC BY 4.0",
+          "attribution": {
+            "name": "AirQo",
+            "url": null
+          },
+          "dateFrom": "2023-07-15",
+          "dateTo": null
+        }
+      ],
+      "bounds": [
+        32.584203,
+        0.358762,
+        32.584203,
+        0.358762
+      ],
+      "distance": 1259.6349648,
+      "datetimeFirst": {
+        "utc": "2025-10-01T09:00:00Z",
+        "local": "2025-10-01T12:00:00+03:00"
+      },
+      "datetimeLast": {
+        "utc": "2026-08-05T16:00:00Z",
+        "local": "2026-08-05T19:00:00+03:00"
+      }
+    },
+    {
+      "id": 5987684,
+      "name": "Sir Apollo Kagwa Road",
+      "locality": null,
+      "timezone": "Africa/Kampala",
+      "country": {
+        "id": 133,
+        "code": "UG",
+        "name": "Uganda"
+      },
+      "owner": {
+        "id": 22712,
+        "name": "AirQo"
+      },
+      "provider": {
+        "id": 66,
+        "name": "AirGradient"
+      },
+      "isMobile": false,
+      "isMonitor": false,
+      "instruments": [
+        {
+          "id": 27,
+          "name": "AirGradient Open Air Max Generation 1 (O-M-1PPSTON-CE)"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 14267479,
+          "name": "pm1 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 19,
+            "name": "pm1",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM1"
+          }
+        },
+        {
+          "id": 14267480,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        },
+        {
+          "id": 14267481,
+          "name": "relativehumidity %",
+          "parameter": {
+            "id": 98,
+            "name": "relativehumidity",
+            "units": "%",
+            "displayName": "RH"
+          }
+        },
+        {
+          "id": 14267482,
+          "name": "temperature c",
+          "parameter": {
+            "id": 100,
+            "name": "temperature",
+            "units": "c",
+            "displayName": "Temperature (C)"
+          }
+        },
+        {
+          "id": 14267483,
+          "name": "um003 particles/cm\u00b3",
+          "parameter": {
+            "id": 125,
+            "name": "um003",
+            "units": "particles/cm\u00b3",
+            "displayName": "PM0.3 count"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": 0.33354,
+        "longitude": 32.56861
+      },
+      "licenses": [
+        {
+          "id": 41,
+          "name": "CC BY 4.0",
+          "attribution": {
+            "name": "AirQo",
+            "url": null
+          },
+          "dateFrom": "2023-07-15",
+          "dateTo": null
+        }
+      ],
+      "bounds": [
+        32.56861,
+        0.33354,
+        32.56861,
+        0.33354
+      ],
+      "distance": 2184.83204987,
+      "datetimeFirst": {
+        "utc": "2025-10-02T06:00:00Z",
+        "local": "2025-10-02T09:00:00+03:00"
+      },
+      "datetimeLast": {
+        "utc": "2026-08-05T16:00:00Z",
+        "local": "2026-08-05T19:00:00+03:00"
+      }
+    },
+    {
+      "id": 5987686,
+      "name": "Salama Road",
+      "locality": null,
+      "timezone": "Africa/Kampala",
+      "country": {
+        "id": 133,
+        "code": "UG",
+        "name": "Uganda"
+      },
+      "owner": {
+        "id": 22712,
+        "name": "AirQo"
+      },
+      "provider": {
+        "id": 66,
+        "name": "AirGradient"
+      },
+      "isMobile": false,
+      "isMonitor": false,
+      "instruments": [
+        {
+          "id": 27,
+          "name": "AirGradient Open Air Max Generation 1 (O-M-1PPSTON-CE)"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 14267484,
+          "name": "pm1 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 19,
+            "name": "pm1",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM1"
+          }
+        },
+        {
+          "id": 14267485,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        },
+        {
+          "id": 14267486,
+          "name": "relativehumidity %",
+          "parameter": {
+            "id": 98,
+            "name": "relativehumidity",
+            "units": "%",
+            "displayName": "RH"
+          }
+        },
+        {
+          "id": 14267487,
+          "name": "temperature c",
+          "parameter": {
+            "id": 100,
+            "name": "temperature",
+            "units": "c",
+            "displayName": "Temperature (C)"
+          }
+        },
+        {
+          "id": 14267488,
+          "name": "um003 particles/cm\u00b3",
+          "parameter": {
+            "id": 125,
+            "name": "um003",
+            "units": "particles/cm\u00b3",
+            "displayName": "PM0.3 count"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": 0.33354,
+        "longitude": 32.56861
+      },
+      "licenses": [
+        {
+          "id": 41,
+          "name": "CC BY 4.0",
+          "attribution": {
+            "name": "AirQo",
+            "url": null
+          },
+          "dateFrom": "2023-07-15",
+          "dateTo": null
+        }
+      ],
+      "bounds": [
+        32.56861,
+        0.33354,
+        32.56861,
+        0.33354
+      ],
+      "distance": 2184.83204987,
+      "datetimeFirst": {
+        "utc": "2025-10-02T07:00:00Z",
+        "local": "2025-10-02T10:00:00+03:00"
+      },
+      "datetimeLast": {
+        "utc": "2026-08-05T16:00:00Z",
+        "local": "2026-08-05T19:00:00+03:00"
+      }
+    },
+    {
+      "id": 5988718,
+      "name": "Mpelerwe ",
+      "locality": null,
+      "timezone": "Africa/Kampala",
+      "country": {
+        "id": 133,
+        "code": "UG",
+        "name": "Uganda"
+      },
+      "owner": {
+        "id": 22712,
+        "name": "AirQo"
+      },
+      "provider": {
+        "id": 66,
+        "name": "AirGradient"
+      },
+      "isMobile": false,
+      "isMonitor": false,
+      "instruments": [
+        {
+          "id": 27,
+          "name": "AirGradient Open Air Max Generation 1 (O-M-1PPSTON-CE)"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 14268325,
+          "name": "pm1 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 19,
+            "name": "pm1",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM1"
+          }
+        },
+        {
+          "id": 14268326,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        },
+        {
+          "id": 14268327,
+          "name": "relativehumidity %",
+          "parameter": {
+            "id": 98,
+            "name": "relativehumidity",
+            "units": "%",
+            "displayName": "RH"
+          }
+        },
+        {
+          "id": 14268328,
+          "name": "temperature c",
+          "parameter": {
+            "id": 100,
+            "name": "temperature",
+            "units": "c",
+            "displayName": "Temperature (C)"
+          }
+        },
+        {
+          "id": 14268329,
+          "name": "um003 particles/cm\u00b3",
+          "parameter": {
+            "id": 125,
+            "name": "um003",
+            "units": "particles/cm\u00b3",
+            "displayName": "PM0.3 count"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": 0.33354,
+        "longitude": 32.56861
+      },
+      "licenses": [
+        {
+          "id": 41,
+          "name": "CC BY 4.0",
+          "attribution": {
+            "name": "AirQo",
+            "url": null
+          },
+          "dateFrom": "2023-07-15",
+          "dateTo": null
+        }
+      ],
+      "bounds": [
+        32.56861,
+        0.33354,
+        32.56861,
+        0.33354
+      ],
+      "distance": 2184.83204987,
+      "datetimeFirst": {
+        "utc": "2025-10-02T09:00:00Z",
+        "local": "2025-10-02T12:00:00+03:00"
+      },
+      "datetimeLast": {
+        "utc": "2026-08-03T07:00:00Z",
+        "local": "2026-08-03T10:00:00+03:00"
+      }
+    },
+    {
+      "id": 6094926,
+      "name": "Nansana Municipal Council offices",
+      "locality": null,
+      "timezone": "Africa/Kampala",
+      "country": {
+        "id": 133,
+        "code": "UG",
+        "name": "Uganda"
+      },
+      "owner": {
+        "id": 12,
+        "name": "AirGradient"
+      },
+      "provider": {
+        "id": 66,
+        "name": "AirGradient"
+      },
+      "isMobile": false,
+      "isMonitor": false,
+      "instruments": [
+        {
+          "id": 24,
+          "name": "AirGradient Open Air Generation 1 (O-1PST)"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 14373654,
+          "name": "pm1 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 19,
+            "name": "pm1",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM1"
+          }
+        },
+        {
+          "id": 14373655,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        },
+        {
+          "id": 14373656,
+          "name": "relativehumidity %",
+          "parameter": {
+            "id": 98,
+            "name": "relativehumidity",
+            "units": "%",
+            "displayName": "RH"
+          }
+        },
+        {
+          "id": 14373657,
+          "name": "temperature c",
+          "parameter": {
+            "id": 100,
+            "name": "temperature",
+            "units": "c",
+            "displayName": "Temperature (C)"
+          }
+        },
+        {
+          "id": 14373658,
+          "name": "um003 particles/cm\u00b3",
+          "parameter": {
+            "id": 125,
+            "name": "um003",
+            "units": "particles/cm\u00b3",
+            "displayName": "PM0.3 count"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": 0.36354523794699406,
+        "longitude": 32.52925406298905
+      },
+      "licenses": [
+        {
+          "id": 41,
+          "name": "CC BY 4.0",
+          "attribution": {
+            "name": "AirGradient",
+            "url": null
+          },
+          "dateFrom": "2023-07-15",
+          "dateTo": null
+        }
+      ],
+      "bounds": [
+        32.52925406298905,
+        0.36354523794699406,
+        32.52925406298905,
+        0.36354523794699406
+      ],
+      "distance": 6187.03657844,
+      "datetimeFirst": {
+        "utc": "2025-10-14T10:00:00Z",
+        "local": "2025-10-14T13:00:00+03:00"
+      },
+      "datetimeLast": {
+        "utc": "2026-04-22T12:00:00Z",
+        "local": "2026-04-22T15:00:00+03:00"
+      }
+    },
+    {
+      "id": 6112501,
+      "name": "aq_g5_53",
+      "locality": null,
+      "timezone": "Africa/Kampala",
+      "country": {
+        "id": 133,
+        "code": "UG",
+        "name": "Uganda"
+      },
+      "owner": {
+        "id": 1,
+        "name": "OpenAQ admin"
+      },
+      "provider": {
+        "id": 21,
+        "name": "AirQo"
+      },
+      "isMobile": false,
+      "isMonitor": false,
+      "instruments": [
+        {
+          "id": 1,
+          "name": "N/A"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 14502607,
+          "name": "pm10 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 1,
+            "name": "pm10",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM10"
+          }
+        },
+        {
+          "id": 14502608,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": 0.28863,
+        "longitude": 32.60297
+      },
+      "licenses": [
+        {
+          "id": 41,
+          "name": "CC BY 4.0",
+          "attribution": {
+            "name": "OpenAQ admin",
+            "url": null
+          },
+          "dateFrom": "2025-10-29",
+          "dateTo": null
+        }
+      ],
+      "bounds": [
+        32.60297,
+        0.28863,
+        32.60297,
+        0.28863
+      ],
+      "distance": 6896.81632952,
+      "datetimeFirst": {
+        "utc": "2025-10-29T19:00:00Z",
+        "local": "2025-10-29T22:00:00+03:00"
+      },
+      "datetimeLast": {
+        "utc": "2026-08-05T12:00:00Z",
+        "local": "2026-08-05T15:00:00+03:00"
+      }
+    },
+    {
+      "id": 6112502,
+      "name": "aq_g5_48",
+      "locality": null,
+      "timezone": "Africa/Kampala",
+      "country": {
+        "id": 133,
+        "code": "UG",
+        "name": "Uganda"
+      },
+      "owner": {
+        "id": 1,
+        "name": "OpenAQ admin"
+      },
+      "provider": {
+        "id": 21,
+        "name": "AirQo"
+      },
+      "isMobile": false,
+      "isMonitor": false,
+      "instruments": [
+        {
+          "id": 1,
+          "name": "N/A"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 14502609,
+          "name": "pm10 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 1,
+            "name": "pm10",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM10"
+          }
+        },
+        {
+          "id": 14502610,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": 0.3004549375030546,
+        "longitude": 32.60469721631874
+      },
+      "licenses": [
+        {
+          "id": 41,
+          "name": "CC BY 4.0",
+          "attribution": {
+            "name": "OpenAQ admin",
+            "url": null
+          },
+          "dateFrom": "2025-10-29",
+          "dateTo": null
+        }
+      ],
+      "bounds": [
+        32.60469721631874,
+        0.3004549375030546,
+        32.60469721631874,
+        0.3004549375030546
+      ],
+      "distance": 5759.00249938,
+      "datetimeFirst": {
+        "utc": "2025-10-29T12:00:00Z",
+        "local": "2025-10-29T15:00:00+03:00"
+      },
+      "datetimeLast": {
+        "utc": "2026-08-04T16:00:00Z",
+        "local": "2026-08-04T19:00:00+03:00"
+      }
+    },
+    {
+      "id": 6112503,
+      "name": "aq_g5_46",
+      "locality": null,
+      "timezone": "Africa/Kampala",
+      "country": {
+        "id": 133,
+        "code": "UG",
+        "name": "Uganda"
+      },
+      "owner": {
+        "id": 1,
+        "name": "OpenAQ admin"
+      },
+      "provider": {
+        "id": 21,
+        "name": "AirQo"
+      },
+      "isMobile": false,
+      "isMonitor": false,
+      "instruments": [
+        {
+          "id": 1,
+          "name": "N/A"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 14502603,
+          "name": "pm10 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 1,
+            "name": "pm10",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM10"
+          }
+        },
+        {
+          "id": 14502604,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": 0.25776,
+        "longitude": 32.63686
+      },
+      "licenses": [
+        {
+          "id": 41,
+          "name": "CC BY 4.0",
+          "attribution": {
+            "name": "OpenAQ admin",
+            "url": null
+          },
+          "dateFrom": "2025-10-29",
+          "dateTo": null
+        }
+      ],
+      "bounds": [
+        32.63686,
+        0.25776,
+        32.63686,
+        0.25776
+      ],
+      "distance": 11622.48886059,
+      "datetimeFirst": {
+        "utc": "2025-10-29T19:00:00Z",
+        "local": "2025-10-29T22:00:00+03:00"
+      },
+      "datetimeLast": {
+        "utc": "2026-08-05T11:00:00Z",
+        "local": "2026-08-05T14:00:00+03:00"
+      }
+    },
+    {
+      "id": 6112504,
+      "name": "aq_g5_97",
+      "locality": null,
+      "timezone": "Africa/Kampala",
+      "country": {
+        "id": 133,
+        "code": "UG",
+        "name": "Uganda"
+      },
+      "owner": {
+        "id": 1,
+        "name": "OpenAQ admin"
+      },
+      "provider": {
+        "id": 21,
+        "name": "AirQo"
+      },
+      "isMobile": false,
+      "isMonitor": false,
+      "instruments": [
+        {
+          "id": 1,
+          "name": "N/A"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 14502593,
+          "name": "pm10 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 1,
+            "name": "pm10",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM10"
+          }
+        },
+        {
+          "id": 14502594,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": 0.32292449765953846,
+        "longitude": 32.628504975120066
+      },
+      "licenses": [
+        {
+          "id": 41,
+          "name": "CC BY 4.0",
+          "attribution": {
+            "name": "OpenAQ admin",
+            "url": null
+          },
+          "dateFrom": "2025-10-29",
+          "dateTo": null
+        }
+      ],
+      "bounds": [
+        32.628504975120066,
+        0.32292449765953846,
+        32.628504975120066,
+        0.32292449765953846
+      ],
+      "distance": 5797.47197419,
+      "datetimeFirst": {
+        "utc": "2025-10-29T17:00:00Z",
+        "local": "2025-10-29T20:00:00+03:00"
+      },
+      "datetimeLast": {
+        "utc": "2026-05-03T19:00:00Z",
+        "local": "2026-05-03T22:00:00+03:00"
+      }
+    },
+    {
+      "id": 6112506,
+      "name": "aq_g5_43",
+      "locality": null,
+      "timezone": "Africa/Kampala",
+      "country": {
+        "id": 133,
+        "code": "UG",
+        "name": "Uganda"
+      },
+      "owner": {
+        "id": 1,
+        "name": "OpenAQ admin"
+      },
+      "provider": {
+        "id": 21,
+        "name": "AirQo"
+      },
+      "isMobile": false,
+      "isMonitor": false,
+      "instruments": [
+        {
+          "id": 1,
+          "name": "N/A"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 14502611,
+          "name": "pm10 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 1,
+            "name": "pm10",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM10"
+          }
+        },
+        {
+          "id": 14502612,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": 0.2969255477613093,
+        "longitude": 32.57664109478158
+      },
+      "licenses": [
+        {
+          "id": 41,
+          "name": "CC BY 4.0",
+          "attribution": {
+            "name": "OpenAQ admin",
+            "url": null
+          },
+          "dateFrom": "2025-10-29",
+          "dateTo": null
+        }
+      ],
+      "bounds": [
+        32.57664109478158,
+        0.2969255477613093,
+        32.57664109478158,
+        0.2969255477613093
+      ],
+      "distance": 5630.1385062,
+      "datetimeFirst": {
+        "utc": "2025-10-29T19:00:00Z",
+        "local": "2025-10-29T22:00:00+03:00"
+      },
+      "datetimeLast": {
+        "utc": "2026-08-05T14:00:00Z",
+        "local": "2026-08-05T17:00:00+03:00"
+      }
+    },
+    {
+      "id": 6112507,
+      "name": "aq_g520",
+      "locality": null,
+      "timezone": "Africa/Kampala",
+      "country": {
+        "id": 133,
+        "code": "UG",
+        "name": "Uganda"
+      },
+      "owner": {
+        "id": 1,
+        "name": "OpenAQ admin"
+      },
+      "provider": {
+        "id": 21,
+        "name": "AirQo"
+      },
+      "isMobile": false,
+      "isMonitor": false,
+      "instruments": [
+        {
+          "id": 1,
+          "name": "N/A"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 14502605,
+          "name": "pm10 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 1,
+            "name": "pm10",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM10"
+          }
+        },
+        {
+          "id": 14502606,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": 0.30991,
+        "longitude": 32.60045
+      },
+      "licenses": [
+        {
+          "id": 41,
+          "name": "CC BY 4.0",
+          "attribution": {
+            "name": "OpenAQ admin",
+            "url": null
+          },
+          "dateFrom": "2025-10-29",
+          "dateTo": null
+        }
+      ],
+      "bounds": [
+        32.60045,
+        0.30991,
+        32.60045,
+        0.30991
+      ],
+      "distance": 4611.83346473,
+      "datetimeFirst": {
+        "utc": "2025-10-29T19:00:00Z",
+        "local": "2025-10-29T22:00:00+03:00"
+      },
+      "datetimeLast": {
+        "utc": "2026-08-05T10:00:00Z",
+        "local": "2026-08-05T13:00:00+03:00"
+      }
+    },
+    {
+      "id": 6112508,
+      "name": "aq_43",
+      "locality": null,
+      "timezone": "Africa/Kampala",
+      "country": {
+        "id": 133,
+        "code": "UG",
+        "name": "Uganda"
+      },
+      "owner": {
+        "id": 1,
+        "name": "OpenAQ admin"
+      },
+      "provider": {
+        "id": 21,
+        "name": "AirQo"
+      },
+      "isMobile": false,
+      "isMonitor": false,
+      "instruments": [
+        {
+          "id": 1,
+          "name": "N/A"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 14502601,
+          "name": "pm10 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 1,
+            "name": "pm10",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM10"
+          }
+        },
+        {
+          "id": 14502602,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": 0.28907,
+        "longitude": 32.58959
+      },
+      "licenses": [
+        {
+          "id": 41,
+          "name": "CC BY 4.0",
+          "attribution": {
+            "name": "OpenAQ admin",
+            "url": null
+          },
+          "dateFrom": "2025-10-29",
+          "dateTo": null
+        }
+      ],
+      "bounds": [
+        32.58959,
+        0.28907,
+        32.58959,
+        0.28907
+      ],
+      "distance": 6508.88447098,
+      "datetimeFirst": {
+        "utc": "2025-10-29T16:00:00Z",
+        "local": "2025-10-29T19:00:00+03:00"
+      },
+      "datetimeLast": {
+        "utc": "2026-01-19T13:00:00Z",
+        "local": "2026-01-19T16:00:00+03:00"
+      }
+    },
+    {
+      "id": 6112510,
+      "name": "aq_72",
+      "locality": null,
+      "timezone": "Africa/Kampala",
+      "country": {
+        "id": 133,
+        "code": "UG",
+        "name": "Uganda"
+      },
+      "owner": {
+        "id": 1,
+        "name": "OpenAQ admin"
+      },
+      "provider": {
+        "id": 21,
+        "name": "AirQo"
+      },
+      "isMobile": false,
+      "isMonitor": false,
+      "instruments": [
+        {
+          "id": 1,
+          "name": "N/A"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 14502595,
+          "name": "pm10 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 1,
+            "name": "pm10",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM10"
+          }
+        },
+        {
+          "id": 14502596,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": 0.2689,
+        "longitude": 32.588
+      },
+      "licenses": [
+        {
+          "id": 41,
+          "name": "CC BY 4.0",
+          "attribution": {
+            "name": "OpenAQ admin",
+            "url": null
+          },
+          "dateFrom": "2025-10-29",
+          "dateTo": null
+        }
+      ],
+      "bounds": [
+        32.588,
+        0.2689,
+        32.588,
+        0.2689
+      ],
+      "distance": 8712.67888171,
+      "datetimeFirst": {
+        "utc": "2025-10-29T19:00:00Z",
+        "local": "2025-10-29T22:00:00+03:00"
+      },
+      "datetimeLast": {
+        "utc": "2026-08-05T13:00:00Z",
+        "local": "2026-08-05T16:00:00+03:00"
+      }
+    },
+    {
+      "id": 6113133,
+      "name": "airqo_g5567",
+      "locality": null,
+      "timezone": "Africa/Kampala",
+      "country": {
+        "id": 133,
+        "code": "UG",
+        "name": "Uganda"
+      },
+      "owner": {
+        "id": 1,
+        "name": "OpenAQ admin"
+      },
+      "provider": {
+        "id": 21,
+        "name": "AirQo"
+      },
+      "isMobile": false,
+      "isMonitor": false,
+      "instruments": [
+        {
+          "id": 1,
+          "name": "N/A"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 14506875,
+          "name": "pm10 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 1,
+            "name": "pm10",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM10"
+          }
+        },
+        {
+          "id": 14506876,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": 0.3468257915673872,
+        "longitude": 32.58904740585272
+      },
+      "licenses": [
+        {
+          "id": 41,
+          "name": "CC BY 4.0",
+          "attribution": {
+            "name": "OpenAQ admin",
+            "url": null
+          },
+          "dateFrom": "2025-10-29",
+          "dateTo": null
+        }
+      ],
+      "bounds": [
+        32.58904740585272,
+        0.3468257915673872,
+        32.58904740585272,
+        0.3468257915673872
+      ],
+      "distance": 732.64339013,
+      "datetimeFirst": {
+        "utc": "2025-10-30T09:00:00Z",
+        "local": "2025-10-30T12:00:00+03:00"
+      },
+      "datetimeLast": {
+        "utc": "2026-08-05T14:00:00Z",
+        "local": "2026-08-05T17:00:00+03:00"
+      }
+    },
+    {
+      "id": 6113134,
+      "name": "airqo_g5563",
+      "locality": null,
+      "timezone": "Africa/Kampala",
+      "country": {
+        "id": 133,
+        "code": "UG",
+        "name": "Uganda"
+      },
+      "owner": {
+        "id": 1,
+        "name": "OpenAQ admin"
+      },
+      "provider": {
+        "id": 21,
+        "name": "AirQo"
+      },
+      "isMobile": false,
+      "isMonitor": false,
+      "instruments": [
+        {
+          "id": 1,
+          "name": "N/A"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 14506873,
+          "name": "pm10 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 1,
+            "name": "pm10",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM10"
+          }
+        },
+        {
+          "id": 14506874,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": 0.3118744185161481,
+        "longitude": 32.56235063213467
+      },
+      "licenses": [
+        {
+          "id": 41,
+          "name": "CC BY 4.0",
+          "attribution": {
+            "name": "OpenAQ admin",
+            "url": null
+          },
+          "dateFrom": "2025-10-29",
+          "dateTo": null
+        }
+      ],
+      "bounds": [
+        32.56235063213467,
+        0.3118744185161481,
+        32.56235063213467,
+        0.3118744185161481
+      ],
+      "distance": 4533.08310083,
+      "datetimeFirst": {
+        "utc": "2025-10-30T09:00:00Z",
+        "local": "2025-10-30T12:00:00+03:00"
+      },
+      "datetimeLast": {
+        "utc": "2026-08-05T00:00:00Z",
+        "local": "2026-08-05T03:00:00+03:00"
+      }
+    },
+    {
+      "id": 6113203,
+      "name": "Kabumbi Nansana",
+      "locality": null,
+      "timezone": "Africa/Kampala",
+      "country": {
+        "id": 133,
+        "code": "UG",
+        "name": "Uganda"
+      },
+      "owner": {
+        "id": 12,
+        "name": "AirGradient"
+      },
+      "provider": {
+        "id": 66,
+        "name": "AirGradient"
+      },
+      "isMobile": false,
+      "isMonitor": false,
+      "instruments": [
+        {
+          "id": 7,
+          "name": "Unknown AirGradient Sensor"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 14507365,
+          "name": "pm1 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 19,
+            "name": "pm1",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM1"
+          }
+        },
+        {
+          "id": 14507366,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        },
+        {
+          "id": 14507367,
+          "name": "relativehumidity %",
+          "parameter": {
+            "id": 98,
+            "name": "relativehumidity",
+            "units": "%",
+            "displayName": "RH"
+          }
+        },
+        {
+          "id": 14507368,
+          "name": "temperature c",
+          "parameter": {
+            "id": 100,
+            "name": "temperature",
+            "units": "c",
+            "displayName": "Temperature (C)"
+          }
+        },
+        {
+          "id": 14507369,
+          "name": "um003 particles/cm\u00b3",
+          "parameter": {
+            "id": 125,
+            "name": "um003",
+            "units": "particles/cm\u00b3",
+            "displayName": "PM0.3 count"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": 0.3759,
+        "longitude": 32.528
+      },
+      "licenses": [
+        {
+          "id": 41,
+          "name": "CC BY 4.0",
+          "attribution": {
+            "name": "AirGradient",
+            "url": null
+          },
+          "dateFrom": "2023-07-15",
+          "dateTo": null
+        }
+      ],
+      "bounds": [
+        32.528,
+        0.3759,
+        32.528,
+        0.3759
+      ],
+      "distance": 6831.36279936,
+      "datetimeFirst": {
+        "utc": "2025-10-30T13:00:00Z",
+        "local": "2025-10-30T16:00:00+03:00"
+      },
+      "datetimeLast": {
+        "utc": "2026-08-05T12:00:00Z",
+        "local": "2026-08-05T15:00:00+03:00"
+      }
+    },
+    {
+      "id": 6113240,
+      "name": "airqo_g5446",
+      "locality": null,
+      "timezone": "Africa/Kampala",
+      "country": {
+        "id": 133,
+        "code": "UG",
+        "name": "Uganda"
+      },
+      "owner": {
+        "id": 1,
+        "name": "OpenAQ admin"
+      },
+      "provider": {
+        "id": 21,
+        "name": "AirQo"
+      },
+      "isMobile": false,
+      "isMonitor": false,
+      "instruments": [
+        {
+          "id": 1,
+          "name": "N/A"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 14507652,
+          "name": "pm10 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 1,
+            "name": "pm10",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM10"
+          }
+        },
+        {
+          "id": 14507653,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": 0.3156788593479292,
+        "longitude": 32.635063348773784
+      },
+      "licenses": [
+        {
+          "id": 41,
+          "name": "CC BY 4.0",
+          "attribution": {
+            "name": "OpenAQ admin",
+            "url": null
+          },
+          "dateFrom": "2025-10-29",
+          "dateTo": null
+        }
+      ],
+      "bounds": [
+        32.635063348773784,
+        0.3156788593479292,
+        32.635063348773784,
+        0.3156788593479292
+      ],
+      "distance": 6827.69494539,
+      "datetimeFirst": {
+        "utc": "2025-10-30T11:00:00Z",
+        "local": "2025-10-30T14:00:00+03:00"
+      },
+      "datetimeLast": {
+        "utc": "2026-08-05T13:00:00Z",
+        "local": "2026-08-05T16:00:00+03:00"
+      }
+    },
+    {
+      "id": 6113241,
+      "name": "airqo_g5548",
+      "locality": null,
+      "timezone": "Africa/Kampala",
+      "country": {
+        "id": 133,
+        "code": "UG",
+        "name": "Uganda"
+      },
+      "owner": {
+        "id": 1,
+        "name": "OpenAQ admin"
+      },
+      "provider": {
+        "id": 21,
+        "name": "AirQo"
+      },
+      "isMobile": false,
+      "isMonitor": false,
+      "instruments": [
+        {
+          "id": 1,
+          "name": "N/A"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 14507648,
+          "name": "pm10 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 1,
+            "name": "pm10",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM10"
+          }
+        },
+        {
+          "id": 14507649,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": 0.3232013699891734,
+        "longitude": 32.63197194130845
+      },
+      "licenses": [
+        {
+          "id": 41,
+          "name": "CC BY 4.0",
+          "attribution": {
+            "name": "OpenAQ admin",
+            "url": null
+          },
+          "dateFrom": "2025-10-29",
+          "dateTo": null
+        }
+      ],
+      "bounds": [
+        32.63197194130845,
+        0.3232013699891734,
+        32.63197194130845,
+        0.3232013699891734
+      ],
+      "distance": 6127.56405681,
+      "datetimeFirst": {
+        "utc": "2025-10-30T11:00:00Z",
+        "local": "2025-10-30T14:00:00+03:00"
+      },
+      "datetimeLast": {
+        "utc": "2026-08-05T14:00:00Z",
+        "local": "2026-08-05T17:00:00+03:00"
+      }
+    },
+    {
+      "id": 6113252,
+      "name": "airqo_g5449",
+      "locality": null,
+      "timezone": "Africa/Kampala",
+      "country": {
+        "id": 133,
+        "code": "UG",
+        "name": "Uganda"
+      },
+      "owner": {
+        "id": 1,
+        "name": "OpenAQ admin"
+      },
+      "provider": {
+        "id": 21,
+        "name": "AirQo"
+      },
+      "isMobile": false,
+      "isMonitor": false,
+      "instruments": [
+        {
+          "id": 1,
+          "name": "N/A"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 14507650,
+          "name": "pm10 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 1,
+            "name": "pm10",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM10"
+          }
+        },
+        {
+          "id": 14507651,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": 0.28782807522168075,
+        "longitude": 32.62458279058957
+      },
+      "licenses": [
+        {
+          "id": 41,
+          "name": "CC BY 4.0",
+          "attribution": {
+            "name": "OpenAQ admin",
+            "url": null
+          },
+          "dateFrom": "2025-10-29",
+          "dateTo": null
+        }
+      ],
+      "bounds": [
+        32.62458279058957,
+        0.28782807522168075,
+        32.62458279058957,
+        0.28782807522168075
+      ],
+      "distance": 8092.0415158,
+      "datetimeFirst": {
+        "utc": "2025-10-30T11:00:00Z",
+        "local": "2025-10-30T14:00:00+03:00"
+      },
+      "datetimeLast": {
+        "utc": "2026-02-09T11:00:00Z",
+        "local": "2026-02-09T14:00:00+03:00"
+      }
+    },
+    {
+      "id": 6114036,
+      "name": "Ntinda",
+      "locality": null,
+      "timezone": "Africa/Kampala",
+      "country": {
+        "id": 133,
+        "code": "UG",
+        "name": "Uganda"
+      },
+      "owner": {
+        "id": 22712,
+        "name": "AirQo"
+      },
+      "provider": {
+        "id": 66,
+        "name": "AirGradient"
+      },
+      "isMobile": false,
+      "isMonitor": false,
+      "instruments": [
+        {
+          "id": 26,
+          "name": "AirGradient Open Air Max Generation 1 (O-M-1PPST-CE)"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 14513204,
+          "name": "pm1 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 19,
+            "name": "pm1",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM1"
+          }
+        },
+        {
+          "id": 14513205,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        },
+        {
+          "id": 14513206,
+          "name": "relativehumidity %",
+          "parameter": {
+            "id": 98,
+            "name": "relativehumidity",
+            "units": "%",
+            "displayName": "RH"
+          }
+        },
+        {
+          "id": 14513207,
+          "name": "temperature c",
+          "parameter": {
+            "id": 100,
+            "name": "temperature",
+            "units": "c",
+            "displayName": "Temperature (C)"
+          }
+        },
+        {
+          "id": 14513208,
+          "name": "um003 particles/cm\u00b3",
+          "parameter": {
+            "id": 125,
+            "name": "um003",
+            "units": "particles/cm\u00b3",
+            "displayName": "PM0.3 count"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": 0.360209,
+        "longitude": 32.610756
+      },
+      "licenses": [
+        {
+          "id": 41,
+          "name": "CC BY 4.0",
+          "attribution": {
+            "name": "AirQo",
+            "url": null
+          },
+          "dateFrom": "2023-07-15",
+          "dateTo": null
+        }
+      ],
+      "bounds": [
+        32.610756,
+        0.360209,
+        32.610756,
+        0.360209
+      ],
+      "distance": 3445.03662288,
+      "datetimeFirst": {
+        "utc": "2025-10-31T04:00:00Z",
+        "local": "2025-10-31T07:00:00+03:00"
+      },
+      "datetimeLast": {
+        "utc": "2026-08-05T16:00:00Z",
+        "local": "2026-08-05T19:00:00+03:00"
+      }
+    },
+    {
+      "id": 6336502,
+      "name": "airqo_g5433",
+      "locality": null,
+      "timezone": "Africa/Kampala",
+      "country": {
+        "id": 133,
+        "code": "UG",
+        "name": "Uganda"
+      },
+      "owner": {
+        "id": 1,
+        "name": "OpenAQ admin"
+      },
+      "provider": {
+        "id": 21,
+        "name": "AirQo"
+      },
+      "isMobile": false,
+      "isMonitor": false,
+      "instruments": [
+        {
+          "id": 1,
+          "name": "N/A"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 16166163,
+          "name": "pm10 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 1,
+            "name": "pm10",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM10"
+          }
+        },
+        {
+          "id": 16166164,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": 0.26328147937525415,
+        "longitude": 32.61791872518982
+      },
+      "licenses": [
+        {
+          "id": 41,
+          "name": "CC BY 4.0",
+          "attribution": {
+            "name": "OpenAQ admin",
+            "url": null
+          },
+          "dateFrom": "2025-10-29",
+          "dateTo": null
+        }
+      ],
+      "bounds": [
+        32.61791872518982,
+        0.26328147937525415,
+        32.61791872518982,
+        0.26328147937525415
+      ],
+      "distance": 10112.66859471,
+      "datetimeFirst": {
+        "utc": "2026-05-05T19:00:00Z",
+        "local": "2026-05-05T22:00:00+03:00"
+      },
+      "datetimeLast": {
+        "utc": "2026-08-05T02:00:00Z",
+        "local": "2026-08-05T05:00:00+03:00"
+      }
+    },
+    {
+      "id": 6336503,
+      "name": "airqo_g5546",
+      "locality": null,
+      "timezone": "Africa/Kampala",
+      "country": {
+        "id": 133,
+        "code": "UG",
+        "name": "Uganda"
+      },
+      "owner": {
+        "id": 1,
+        "name": "OpenAQ admin"
+      },
+      "provider": {
+        "id": 21,
+        "name": "AirQo"
+      },
+      "isMobile": false,
+      "isMonitor": false,
+      "instruments": [
+        {
+          "id": 1,
+          "name": "N/A"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 16166157,
+          "name": "pm10 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 1,
+            "name": "pm10",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM10"
+          }
+        },
+        {
+          "id": 16166158,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": 0.4105560361796908,
+        "longitude": 32.57091121650907
+      },
+      "licenses": [
+        {
+          "id": 41,
+          "name": "CC BY 4.0",
+          "attribution": {
+            "name": "OpenAQ admin",
+            "url": null
+          },
+          "dateFrom": "2025-10-29",
+          "dateTo": null
+        }
+      ],
+      "bounds": [
+        32.57091121650907,
+        0.4105560361796908,
+        32.57091121650907,
+        0.4105560361796908
+      ],
+      "distance": 7090.71500163,
+      "datetimeFirst": {
+        "utc": "2026-05-05T19:00:00Z",
+        "local": "2026-05-05T22:00:00+03:00"
+      },
+      "datetimeLast": {
+        "utc": "2026-08-05T14:00:00Z",
+        "local": "2026-08-05T17:00:00+03:00"
+      }
+    },
+    {
+      "id": 6336504,
+      "name": "airqo_g5573",
+      "locality": null,
+      "timezone": "Africa/Kampala",
+      "country": {
+        "id": 133,
+        "code": "UG",
+        "name": "Uganda"
+      },
+      "owner": {
+        "id": 1,
+        "name": "OpenAQ admin"
+      },
+      "provider": {
+        "id": 21,
+        "name": "AirQo"
+      },
+      "isMobile": false,
+      "isMonitor": false,
+      "instruments": [
+        {
+          "id": 1,
+          "name": "N/A"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 16166121,
+          "name": "pm10 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 1,
+            "name": "pm10",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM10"
+          }
+        },
+        {
+          "id": 16166122,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": 0.3135644042783415,
+        "longitude": 32.405587681192976
+      },
+      "licenses": [
+        {
+          "id": 41,
+          "name": "CC BY 4.0",
+          "attribution": {
+            "name": "OpenAQ admin",
+            "url": null
+          },
+          "dateFrom": "2025-10-29",
+          "dateTo": null
+        }
+      ],
+      "bounds": [
+        32.405587681192976,
+        0.3135644042783415,
+        32.405587681192976,
+        0.3135644042783415
+      ],
+      "distance": 20047.76913358,
+      "datetimeFirst": {
+        "utc": "2026-05-05T19:00:00Z",
+        "local": "2026-05-05T22:00:00+03:00"
+      },
+      "datetimeLast": {
+        "utc": "2026-08-05T08:00:00Z",
+        "local": "2026-08-05T11:00:00+03:00"
+      }
+    },
+    {
+      "id": 6336505,
+      "name": "airqo_g5513",
+      "locality": null,
+      "timezone": "Africa/Kampala",
+      "country": {
+        "id": 133,
+        "code": "UG",
+        "name": "Uganda"
+      },
+      "owner": {
+        "id": 1,
+        "name": "OpenAQ admin"
+      },
+      "provider": {
+        "id": 21,
+        "name": "AirQo"
+      },
+      "isMobile": false,
+      "isMonitor": false,
+      "instruments": [
+        {
+          "id": 1,
+          "name": "N/A"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 16166161,
+          "name": "pm10 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 1,
+            "name": "pm10",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM10"
+          }
+        },
+        {
+          "id": 16166162,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": 0.30671937013628064,
+        "longitude": 32.57011264557611
+      },
+      "licenses": [
+        {
+          "id": 41,
+          "name": "CC BY 4.0",
+          "attribution": {
+            "name": "OpenAQ admin",
+            "url": null
+          },
+          "dateFrom": "2025-10-29",
+          "dateTo": null
+        }
+      ],
+      "bounds": [
+        32.57011264557611,
+        0.30671937013628064,
+        32.57011264557611,
+        0.30671937013628064
+      ],
+      "distance": 4715.41616331,
+      "datetimeFirst": {
+        "utc": "2026-05-05T19:00:00Z",
+        "local": "2026-05-05T22:00:00+03:00"
+      },
+      "datetimeLast": {
+        "utc": "2026-08-05T14:00:00Z",
+        "local": "2026-08-05T17:00:00+03:00"
+      }
+    },
+    {
+      "id": 6336506,
+      "name": "airqo_g5555",
+      "locality": null,
+      "timezone": "Africa/Kampala",
+      "country": {
+        "id": 133,
+        "code": "UG",
+        "name": "Uganda"
+      },
+      "owner": {
+        "id": 1,
+        "name": "OpenAQ admin"
+      },
+      "provider": {
+        "id": 21,
+        "name": "AirQo"
+      },
+      "isMobile": false,
+      "isMonitor": false,
+      "instruments": [
+        {
+          "id": 1,
+          "name": "N/A"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 16166167,
+          "name": "pm10 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 1,
+            "name": "pm10",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM10"
+          }
+        },
+        {
+          "id": 16166168,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": 0.24195420860547595,
+        "longitude": 32.62442652745357
+      },
+      "licenses": [
+        {
+          "id": 41,
+          "name": "CC BY 4.0",
+          "attribution": {
+            "name": "OpenAQ admin",
+            "url": null
+          },
+          "dateFrom": "2025-10-29",
+          "dateTo": null
+        }
+      ],
+      "bounds": [
+        32.62442652745357,
+        0.24195420860547595,
+        32.62442652745357,
+        0.24195420860547595
+      ],
+      "distance": 12569.27521282,
+      "datetimeFirst": {
+        "utc": "2026-05-05T19:00:00Z",
+        "local": "2026-05-05T22:00:00+03:00"
+      },
+      "datetimeLast": {
+        "utc": "2026-08-04T00:00:00Z",
+        "local": "2026-08-04T03:00:00+03:00"
+      }
+    },
+    {
+      "id": 6336507,
+      "name": "airqo_g5558",
+      "locality": null,
+      "timezone": "Africa/Kampala",
+      "country": {
+        "id": 133,
+        "code": "UG",
+        "name": "Uganda"
+      },
+      "owner": {
+        "id": 1,
+        "name": "OpenAQ admin"
+      },
+      "provider": {
+        "id": 21,
+        "name": "AirQo"
+      },
+      "isMobile": false,
+      "isMonitor": false,
+      "instruments": [
+        {
+          "id": 1,
+          "name": "N/A"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 16166153,
+          "name": "pm10 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 1,
+            "name": "pm10",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM10"
+          }
+        },
+        {
+          "id": 16166154,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": 0.34901335688266516,
+        "longitude": 32.628550905673755
+      },
+      "licenses": [
+        {
+          "id": 41,
+          "name": "CC BY 4.0",
+          "attribution": {
+            "name": "OpenAQ admin",
+            "url": null
+          },
+          "dateFrom": "2025-10-29",
+          "dateTo": null
+        }
+      ],
+      "bounds": [
+        32.628550905673755,
+        0.34901335688266516,
+        32.628550905673755,
+        0.34901335688266516
+      ],
+      "distance": 5128.99982049,
+      "datetimeFirst": {
+        "utc": "2026-05-05T19:00:00Z",
+        "local": "2026-05-05T22:00:00+03:00"
+      },
+      "datetimeLast": {
+        "utc": "2026-08-05T14:00:00Z",
+        "local": "2026-08-05T17:00:00+03:00"
+      }
+    },
+    {
+      "id": 6336508,
+      "name": "airqo_g5566",
+      "locality": null,
+      "timezone": "Africa/Kampala",
+      "country": {
+        "id": 133,
+        "code": "UG",
+        "name": "Uganda"
+      },
+      "owner": {
+        "id": 1,
+        "name": "OpenAQ admin"
+      },
+      "provider": {
+        "id": 21,
+        "name": "AirQo"
+      },
+      "isMobile": false,
+      "isMonitor": false,
+      "instruments": [
+        {
+          "id": 1,
+          "name": "N/A"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 16166151,
+          "name": "pm10 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 1,
+            "name": "pm10",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM10"
+          }
+        },
+        {
+          "id": 16166152,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": 0.32403291088859393,
+        "longitude": 32.61826319035055
+      },
+      "licenses": [
+        {
+          "id": 41,
+          "name": "CC BY 4.0",
+          "attribution": {
+            "name": "OpenAQ admin",
+            "url": null
+          },
+          "dateFrom": "2025-10-29",
+          "dateTo": null
+        }
+      ],
+      "bounds": [
+        32.61826319035055,
+        0.32403291088859393,
+        32.61826319035055,
+        0.32403291088859393
+      ],
+      "distance": 4752.07536014,
+      "datetimeFirst": {
+        "utc": "2026-05-05T19:00:00Z",
+        "local": "2026-05-05T22:00:00+03:00"
+      },
+      "datetimeLast": {
+        "utc": "2026-08-05T14:00:00Z",
+        "local": "2026-08-05T17:00:00+03:00"
+      }
+    },
+    {
+      "id": 6336509,
+      "name": "airqo_g5549",
+      "locality": null,
+      "timezone": "Africa/Kampala",
+      "country": {
+        "id": 133,
+        "code": "UG",
+        "name": "Uganda"
+      },
+      "owner": {
+        "id": 1,
+        "name": "OpenAQ admin"
+      },
+      "provider": {
+        "id": 21,
+        "name": "AirQo"
+      },
+      "isMobile": false,
+      "isMonitor": false,
+      "instruments": [
+        {
+          "id": 1,
+          "name": "N/A"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 16166165,
+          "name": "pm10 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 1,
+            "name": "pm10",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM10"
+          }
+        },
+        {
+          "id": 16166166,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": 0.23141690361859404,
+        "longitude": 32.62471580540347
+      },
+      "licenses": [
+        {
+          "id": 41,
+          "name": "CC BY 4.0",
+          "attribution": {
+            "name": "OpenAQ admin",
+            "url": null
+          },
+          "dateFrom": "2025-10-29",
+          "dateTo": null
+        }
+      ],
+      "bounds": [
+        32.62471580540347,
+        0.23141690361859404,
+        32.62471580540347,
+        0.23141690361859404
+      ],
+      "distance": 13669.02137733,
+      "datetimeFirst": {
+        "utc": "2026-05-05T19:00:00Z",
+        "local": "2026-05-05T22:00:00+03:00"
+      },
+      "datetimeLast": {
+        "utc": "2026-08-05T14:00:00Z",
+        "local": "2026-08-05T17:00:00+03:00"
+      }
+    },
+    {
+      "id": 6336510,
+      "name": "airqo_g5551",
+      "locality": null,
+      "timezone": "Africa/Kampala",
+      "country": {
+        "id": 133,
+        "code": "UG",
+        "name": "Uganda"
+      },
+      "owner": {
+        "id": 1,
+        "name": "OpenAQ admin"
+      },
+      "provider": {
+        "id": 21,
+        "name": "AirQo"
+      },
+      "isMobile": false,
+      "isMonitor": false,
+      "instruments": [
+        {
+          "id": 1,
+          "name": "N/A"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 16166155,
+          "name": "pm10 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 1,
+            "name": "pm10",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM10"
+          }
+        },
+        {
+          "id": 16166156,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": 0.3249407602357489,
+        "longitude": 32.58769364800577
+      },
+      "licenses": [
+        {
+          "id": 41,
+          "name": "CC BY 4.0",
+          "attribution": {
+            "name": "OpenAQ admin",
+            "url": null
+          },
+          "dateFrom": "2025-10-29",
+          "dateTo": null
+        }
+      ],
+      "bounds": [
+        32.58769364800577,
+        0.3249407602357489,
+        32.58769364800577,
+        0.3249407602357489
+      ],
+      "distance": 2560.59441711,
+      "datetimeFirst": {
+        "utc": "2026-05-05T19:00:00Z",
+        "local": "2026-05-05T22:00:00+03:00"
+      },
+      "datetimeLast": {
+        "utc": "2026-08-05T14:00:00Z",
+        "local": "2026-08-05T17:00:00+03:00"
+      }
+    },
+    {
+      "id": 6336511,
+      "name": "airqo_g5569",
+      "locality": null,
+      "timezone": "Africa/Kampala",
+      "country": {
+        "id": 133,
+        "code": "UG",
+        "name": "Uganda"
+      },
+      "owner": {
+        "id": 1,
+        "name": "OpenAQ admin"
+      },
+      "provider": {
+        "id": 21,
+        "name": "AirQo"
+      },
+      "isMobile": false,
+      "isMonitor": false,
+      "instruments": [
+        {
+          "id": 1,
+          "name": "N/A"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 16166123,
+          "name": "pm10 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 1,
+            "name": "pm10",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM10"
+          }
+        },
+        {
+          "id": 16166124,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": 0.3089860218747831,
+        "longitude": 32.398084854964374
+      },
+      "licenses": [
+        {
+          "id": 41,
+          "name": "CC BY 4.0",
+          "attribution": {
+            "name": "OpenAQ admin",
+            "url": null
+          },
+          "dateFrom": "2025-10-29",
+          "dateTo": null
+        }
+      ],
+      "bounds": [
+        32.398084854964374,
+        0.3089860218747831,
+        32.398084854964374,
+        0.3089860218747831
+      ],
+      "distance": 20965.73977104,
+      "datetimeFirst": {
+        "utc": "2026-05-05T18:00:00Z",
+        "local": "2026-05-05T21:00:00+03:00"
+      },
+      "datetimeLast": {
+        "utc": "2026-08-05T14:00:00Z",
+        "local": "2026-08-05T17:00:00+03:00"
+      }
+    },
+    {
+      "id": 6336512,
+      "name": "airqo_g5518",
+      "locality": null,
+      "timezone": "Africa/Kampala",
+      "country": {
+        "id": 133,
+        "code": "UG",
+        "name": "Uganda"
+      },
+      "owner": {
+        "id": 1,
+        "name": "OpenAQ admin"
+      },
+      "provider": {
+        "id": 21,
+        "name": "AirQo"
+      },
+      "isMobile": false,
+      "isMonitor": false,
+      "instruments": [
+        {
+          "id": 1,
+          "name": "N/A"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 16166159,
+          "name": "pm10 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 1,
+            "name": "pm10",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM10"
+          }
+        },
+        {
+          "id": 16166160,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": 0.32965339405738603,
+        "longitude": 32.583066313440135
+      },
+      "licenses": [
+        {
+          "id": 41,
+          "name": "CC BY 4.0",
+          "attribution": {
+            "name": "OpenAQ admin",
+            "url": null
+          },
+          "dateFrom": "2025-10-29",
+          "dateTo": null
+        }
+      ],
+      "bounds": [
+        32.583066313440135,
+        0.32965339405738603,
+        32.583066313440135,
+        0.32965339405738603
+      ],
+      "distance": 1974.38289779,
+      "datetimeFirst": {
+        "utc": "2026-05-05T19:00:00Z",
+        "local": "2026-05-05T22:00:00+03:00"
+      },
+      "datetimeLast": {
+        "utc": "2026-08-05T14:00:00Z",
+        "local": "2026-08-05T17:00:00+03:00"
+      }
+    },
+    {
+      "id": 6384166,
+      "name": "Kampala, Mulago National Referral Hospital, GEOHealth",
+      "locality": null,
+      "timezone": "Africa/Kampala",
+      "country": {
+        "id": 133,
+        "code": "UG",
+        "name": "Uganda"
+      },
+      "owner": {
+        "id": 23894,
+        "name": "GEOHealth Hub for Eastern Africa"
+      },
+      "provider": {
+        "id": 441,
+        "name": "GeoHealth"
+      },
+      "isMobile": false,
+      "isMonitor": true,
+      "instruments": [
+        {
+          "id": 18,
+          "name": "BAM 1022"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 16478958,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": 0.33654,
+        "longitude": 32.57613
+      },
+      "licenses": [
+        {
+          "id": 41,
+          "name": "CC BY 4.0",
+          "attribution": {
+            "name": "GEOHealth Hub for Eastern Africa",
+            "url": null
+          },
+          "dateFrom": "2017-04-16",
+          "dateTo": null
+        }
+      ],
+      "bounds": [
+        32.57613,
+        0.33654,
+        32.57613,
+        0.33654
+      ],
+      "distance": 1404.1013478,
+      "datetimeFirst": {
+        "utc": "2017-09-30T21:00:00Z",
+        "local": "2017-10-01T00:00:00+03:00"
+      },
+      "datetimeLast": {
+        "utc": "2022-12-28T12:00:00Z",
+        "local": "2022-12-28T15:00:00+03:00"
+      }
+    },
+    {
+      "id": 6456797,
+      "name": "Makerere University College of computing",
+      "locality": null,
+      "timezone": "Africa/Kampala",
+      "country": {
+        "id": 133,
+        "code": "UG",
+        "name": "Uganda"
+      },
+      "owner": {
+        "id": 12,
+        "name": "AirGradient"
+      },
+      "provider": {
+        "id": 66,
+        "name": "AirGradient"
+      },
+      "isMobile": false,
+      "isMonitor": false,
+      "instruments": [
+        {
+          "id": 7,
+          "name": "Unknown AirGradient Sensor"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 17012712,
+          "name": "pm1 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 19,
+            "name": "pm1",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM1"
+          }
+        },
+        {
+          "id": 17012713,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        },
+        {
+          "id": 17012714,
+          "name": "relativehumidity %",
+          "parameter": {
+            "id": 98,
+            "name": "relativehumidity",
+            "units": "%",
+            "displayName": "RH"
+          }
+        },
+        {
+          "id": 17012715,
+          "name": "temperature c",
+          "parameter": {
+            "id": 100,
+            "name": "temperature",
+            "units": "c",
+            "displayName": "Temperature (C)"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": 0.332101,
+        "longitude": 32.570592
+      },
+      "licenses": [
+        {
+          "id": 41,
+          "name": "CC BY 4.0",
+          "attribution": {
+            "name": "AirGradient",
+            "url": null
+          },
+          "dateFrom": "2023-07-15",
+          "dateTo": null
+        }
+      ],
+      "bounds": [
+        32.570592,
+        0.332101,
+        32.570592,
+        0.332101
+      ],
+      "distance": 2157.87782649,
+      "datetimeFirst": {
+        "utc": "2026-07-23T09:00:00Z",
+        "local": "2026-07-23T12:00:00+03:00"
+      },
+      "datetimeLast": {
+        "utc": "2026-08-05T16:00:00Z",
+        "local": "2026-08-05T19:00:00+03:00"
+      }
+    },
+    {
+      "id": 6466947,
+      "name": "AirQo testing LAB",
+      "locality": null,
+      "timezone": "Africa/Kampala",
+      "country": {
+        "id": 133,
+        "code": "UG",
+        "name": "Uganda"
+      },
+      "owner": {
+        "id": 12,
+        "name": "AirGradient"
+      },
+      "provider": {
+        "id": 66,
+        "name": "AirGradient"
+      },
+      "isMobile": false,
+      "isMonitor": false,
+      "instruments": [
+        {
+          "id": 7,
+          "name": "Unknown AirGradient Sensor"
+        }
+      ],
+      "sensors": [
+        {
+          "id": 17087724,
+          "name": "pm1 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 19,
+            "name": "pm1",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM1"
+          }
+        },
+        {
+          "id": 17087725,
+          "name": "pm25 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 2,
+            "name": "pm25",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM2.5"
+          }
+        },
+        {
+          "id": 17087726,
+          "name": "relativehumidity %",
+          "parameter": {
+            "id": 98,
+            "name": "relativehumidity",
+            "units": "%",
+            "displayName": "RH"
+          }
+        },
+        {
+          "id": 17087727,
+          "name": "temperature c",
+          "parameter": {
+            "id": 100,
+            "name": "temperature",
+            "units": "c",
+            "displayName": "Temperature (C)"
+          }
+        }
+      ],
+      "coordinates": {
+        "latitude": 0.332101,
+        "longitude": 32.570592
+      },
+      "licenses": [
+        {
+          "id": 41,
+          "name": "CC BY 4.0",
+          "attribution": {
+            "name": "AirGradient",
+            "url": null
+          },
+          "dateFrom": "2023-07-15",
+          "dateTo": null
+        }
+      ],
+      "bounds": [
+        32.570592,
+        0.332101,
+        32.570592,
+        0.332101
+      ],
+      "distance": 2157.87782649,
+      "datetimeFirst": {
+        "utc": "2026-07-30T13:00:00Z",
+        "local": "2026-07-30T16:00:00+03:00"
+      },
+      "datetimeLast": {
+        "utc": "2026-08-05T16:00:00Z",
+        "local": "2026-08-05T19:00:00+03:00"
+      }
+    }
+  ]
+}
