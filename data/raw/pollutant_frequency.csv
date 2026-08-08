@@ -1,0 +1,127 @@
+city,pollutant,station_count
+nairobi,Atmospheric pressure,2
+nairobi,BC 375nm,2
+nairobi,BC 470nm,1
+nairobi,BC 528nm,1
+nairobi,BC 625nm,1
+nairobi,BC 880nm,2
+nairobi,CO,0
+nairobi,NO,0
+nairobi,NOx,0
+nairobi,NO₂,1
+nairobi,O₃,0
+nairobi,PM0.3 count,6
+nairobi,PM1,8
+nairobi,PM10,5
+nairobi,PM2.5,16
+nairobi,RH,8
+nairobi,SO₂,0
+nairobi,Temperature (C),9
+nairobi,Temperature (F),1
+nairobi,Wind direction,2
+nairobi,Wind speed,2
+kampala,Atmospheric pressure,0
+kampala,BC 375nm,0
+kampala,BC 470nm,0
+kampala,BC 528nm,0
+kampala,BC 625nm,0
+kampala,BC 880nm,0
+kampala,CO,0
+kampala,NO,0
+kampala,NOx,0
+kampala,NO₂,0
+kampala,O₃,0
+kampala,PM0.3 count,8
+kampala,PM1,10
+kampala,PM10,24
+kampala,PM2.5,36
+kampala,RH,10
+kampala,SO₂,0
+kampala,Temperature (C),10
+kampala,Temperature (F),0
+kampala,Wind direction,0
+kampala,Wind speed,0
+kigali,Atmospheric pressure,0
+kigali,BC 375nm,0
+kigali,BC 470nm,0
+kigali,BC 528nm,0
+kigali,BC 625nm,0
+kigali,BC 880nm,0
+kigali,CO,1
+kigali,NO,0
+kigali,NOx,0
+kigali,NO₂,1
+kigali,O₃,0
+kigali,PM0.3 count,0
+kigali,PM1,0
+kigali,PM10,1
+kigali,PM2.5,4
+kigali,RH,0
+kigali,SO₂,0
+kigali,Temperature (C),0
+kigali,Temperature (F),0
+kigali,Wind direction,0
+kigali,Wind speed,0
+addis_ababa,Atmospheric pressure,0
+addis_ababa,BC 375nm,0
+addis_ababa,BC 470nm,0
+addis_ababa,BC 528nm,0
+addis_ababa,BC 625nm,0
+addis_ababa,BC 880nm,0
+addis_ababa,CO,0
+addis_ababa,NO,0
+addis_ababa,NOx,0
+addis_ababa,NO₂,0
+addis_ababa,O₃,0
+addis_ababa,PM0.3 count,0
+addis_ababa,PM1,0
+addis_ababa,PM10,0
+addis_ababa,PM2.5,9
+addis_ababa,RH,0
+addis_ababa,SO₂,0
+addis_ababa,Temperature (C),0
+addis_ababa,Temperature (F),0
+addis_ababa,Wind direction,0
+addis_ababa,Wind speed,0
+johannesburg,Atmospheric pressure,0
+johannesburg,BC 375nm,0
+johannesburg,BC 470nm,0
+johannesburg,BC 528nm,0
+johannesburg,BC 625nm,0
+johannesburg,BC 880nm,0
+johannesburg,CO,5
+johannesburg,NO,4
+johannesburg,NOx,4
+johannesburg,NO₂,4
+johannesburg,O₃,5
+johannesburg,PM0.3 count,1
+johannesburg,PM1,1
+johannesburg,PM10,9
+johannesburg,PM2.5,7
+johannesburg,RH,1
+johannesburg,SO₂,10
+johannesburg,Temperature (C),1
+johannesburg,Temperature (F),0
+johannesburg,Wind direction,0
+johannesburg,Wind speed,0
+lagos,Atmospheric pressure,8
+lagos,BC 375nm,0
+lagos,BC 470nm,0
+lagos,BC 528nm,0
+lagos,BC 625nm,0
+lagos,BC 880nm,0
+lagos,CO,0
+lagos,NO,0
+lagos,NOx,0
+lagos,NO₂,0
+lagos,O₃,0
+lagos,PM0.3 count,32
+lagos,PM1,32
+lagos,PM10,19
+lagos,PM2.5,61
+lagos,RH,41
+lagos,SO₂,0
+lagos,Temperature (C),41
+lagos,Temperature (F),0
+lagos,Wind direction,0
+lagos,Wind speed,0
