@@ -1,3 +1,29 @@
+"""
+Phase 1 - Step 3: Pull daily-averaged PM2.5 measurements for every ACTIVE
+sensor identified in Step 2 (pm25_sensors_summary.json).
+
+WHY "active" sensors only:
+Step 2 flagged each sensor as active/inactive based on whether its station
+reported within the last 2 years. Dead sensors would just return empty
+pages here and waste API calls/rate-limit budget for no benefit.
+
+WHY daily averages, not raw measurements:
+OpenAQ's raw /measurements endpoint returns every individual reading
+(often hourly or sub-hourly). For a ~5-year study window across ~120
+sensors, that's a huge number of API calls for resolution we don't need.
+The /days endpoint gives one pre-averaged value per day per sensor, which
+is enough detail for trend, seasonal, and WHO-exceedance analysis while
+keeping the total pull tractable.
+
+RESUME SAFETY:
+This script can safely be re-run if it crashes partway through (e.g. a
+network blip, or a new API quirk we haven't seen yet). It checks whether
+a city's output file already exists before pulling that city again, so
+you never lose completed work or double-pull a city that's already done.
+If you genuinely want to re-pull a city from scratch, delete its
+data/raw/{city}_measurements.json file first.
+"""
+
 import os
 import json
 import time
