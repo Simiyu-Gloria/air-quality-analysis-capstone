@@ -1,6 +1,10 @@
 """
 Answers Q2: "Which pollutants are monitored most frequently across the
 selected cities?"
+
+Reads the ORIGINAL Step 1 locations files (not the PM2.5-filtered Step 2
+output) since we need every pollutant type each station monitors, not just
+PM2.5. No new API calls needed - this is all local extraction.
 """
 
 import json
