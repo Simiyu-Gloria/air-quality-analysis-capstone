@@ -1,11 +1,3 @@
-"""
-Phase 1 - Step 2: Extract PM2.5 sensors from each city's location data,
-and flag which stations are actually recent enough to be useful.
-
-No new API calls needed here - sensors are already embedded in the
-locations response from Step 1. This is a local extraction + filter step.
-"""
-
 import json
 import os
 from datetime import datetime, timezone, timedelta

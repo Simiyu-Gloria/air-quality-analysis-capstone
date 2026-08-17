@@ -1,10 +1,3 @@
-"""
-Phase 1 - Step 1: Find OpenAQ monitoring stations for each city.
-
-Run this first, in isolation, to see what stations actually exist
-before writing anything about sensors or measurements.
-"""
-
 import os
 import json
 import time
